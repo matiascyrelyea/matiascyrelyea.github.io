@@ -47,7 +47,7 @@ tags: research
   }
 
   /* ==========================================================================
-     2. CONTAINER LAYOUT TYPES
+     2. CONTAINER LAYOUT TYPES (BASE STYLES)
      ========================================================================== */
   
   /* Layout A: The 2x2 Image Grid Container */
@@ -92,7 +92,7 @@ tags: research
     box-sizing: border-box;
   }
 
-  /* Layout E: New 3-Image Grid (Full Width Top, 2 Equal Columns Bottom) */
+  /* Layout E: 3-Image Grid (Full Width Top, 2 Equal Columns Bottom) */
   .top-heavy-triple-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -101,11 +101,6 @@ tags: research
     margin: 20px auto;
     padding: 10px;
     box-sizing: border-box;
-  }
-
-  /* Spanning helper for grid cells */
-  .full-width-row {
-    grid-column: span 2;
   }
 
   /* Layout G: Bottom-Heavy 3-Image Grid (2 Portraits Top, 1 Full Landscape Bottom) */
@@ -119,64 +114,61 @@ tags: research
     box-sizing: border-box;
   }
 
-  /* Desktop viewport rules */
-  @media (min-width: 769px) {
-    /* Set equal height for the two top portrait cards */
-    .bottom-heavy-triple-grid .portrait-img img { 
-      height: 550px; 
-    }
-    /* Set a clean landscape constraint for the bottom whiteboard line */
-    .bottom-heavy-triple-grid .full-width-row img { 
-      height: 420px; 
-    }
-  }
-
-  /* Mobile responsive stacking rules */
-  @media (max-width: 768px) {
-    .bottom-heavy-triple-grid {
-      grid-template-columns: 1fr;
-      gap: 16px;
-    }
+  /* Grid cell helper: Spans an item full width across 2 columns */
+  .full-width-row {
+    grid-column: span 2;
   }
 
   /* ==========================================================================
      3. DESKTOP RESPONSIVE CONTROL (Screen width > 768px)
      ========================================================================== */
   @media (min-width: 769px) {
+    /* Layout A (2x2 Grid) */
     .mobile-friendly-grid { grid-template-columns: repeat(2, 1fr); }
     .mobile-friendly-grid .landscape-img img { height: 380px; }
     .mobile-friendly-grid .portrait-img img { height: 550px; }
     
+    /* Layout B (Asymmetrical Grid) */
     .triple-image-grid .landscape-img img { height: auto; }
     .triple-image-grid .portrait-img { display: flex; }
     .triple-image-grid .portrait-img img { height: 100%; } 
     .triple-image-grid .full-width-row img { height: 440px; }
 
+    /* Layout C (Standalone Image) */
     .standalone-image-container .landscape-img img { height: 480px; } 
     
+    /* Layout D (Dual Portrait) */
     .dual-portrait-grid .portrait-img img { height: 600px; }
 
-    /* New Layout Desktop heights */
+    /* Layout E (Top-Heavy Grid) */
     .top-heavy-triple-grid .full-width-row img { height: 450px; }
     .top-heavy-triple-grid .portrait-img img { height: 580px; }
+
+    /* Layout G (Bottom-Heavy Grid) */
+    .bottom-heavy-triple-grid .portrait-img img { height: 550px; }
+    .bottom-heavy-triple-grid .full-width-row img { height: 420px; }
   }
 
   /* ==========================================================================
      4. MOBILE RESPONSIVE CONTROL (Screen width <= 768px)
      ========================================================================== */
   @media (max-width: 768px) {
+    /* Collapse all grids down to a single clean column block */
     .mobile-friendly-grid, 
     .triple-image-grid,
     .dual-portrait-grid,
-    .top-heavy-triple-grid {
+    .top-heavy-triple-grid,
+    .bottom-heavy-triple-grid {
       grid-template-columns: 1fr;
       gap: 16px;
     }
     
+    /* Turn off grid spanning on mobile screens */
     .full-width-row {
       grid-column: span 1; 
     }
     
+    /* Mobile core height rules */
     .landscape-img img, 
     .full-width-row img { 
       height: 240px; 
