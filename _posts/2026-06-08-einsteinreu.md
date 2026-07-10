@@ -359,7 +359,7 @@ tags: research
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
     <img src="/quadcryo/assets/img/aushosjlm.jpg" alt="Jerusalem Austrian Hospice view">
-    <figcaption>Sunset view of the Jerusalem Old City from the <a href = "https://en.wikipedia.org/wiki/Austrian_Pilgrim_Hospice_to_the_Holy_Family">Austrian Hospice</figcaption>
+    <figcaption>Sunset view of the Jerusalem Old City from the <a href = "https://en.wikipedia.org/wiki/Austrian_Pilgrim_Hospice_to_the_Holy_Family">Austrian Hospice</a></figcaption>
   </figure>
 </div>
 
