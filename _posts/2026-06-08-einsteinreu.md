@@ -123,7 +123,7 @@ tags: research
     margin: 20px auto;
     padding: 10px;
     box-sizing: border-box;
-    align-items: end; /* Keeps their lower text baselines matched gracefully */
+    align-items: stretch; /* Prevents visual layout splitting */
   }
 
   /* Grid cell helper: Spans an item full width across 2 columns */
@@ -160,8 +160,8 @@ tags: research
     .bottom-heavy-triple-grid .portrait-img img { height: 550px; }
     .bottom-heavy-triple-grid .full-width-row img { height: 420px; }
 
-    /* Layout I (Standalone Dual Landscape Grid Constraints) */
-    .dual-landscape-grid .landscape-img img { height: auto; }
+    /* Layout I (Standalone Dual Landscape Fix) */
+    .dual-landscape-grid .landscape-img img { height: 360px; }
   }
 
   /* ==========================================================================
