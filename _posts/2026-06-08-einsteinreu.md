@@ -114,16 +114,16 @@ tags: research
     box-sizing: border-box;
   }
 
-  /* Layout H: Custom Asymmetrical Panorama Top Grid (4:3 and 16:9 bottom layout) */
-  .panorama-tailored-grid {
+  /* Layout I: Standalone Side-by-Side Dual Landscape Grid (No Cropping) */
+  .dual-landscape-grid {
     display: grid;
-    grid-template-columns: 0.85fr 1.15fr;
+    grid-template-columns: repeat(2, 1fr);
     gap: 12px;
     max-width: 1000px;
     margin: 20px auto;
     padding: 10px;
     box-sizing: border-box;
-    align-items: end;
+    align-items: end; /* Keeps their lower text baselines matched gracefully */
   }
 
   /* Grid cell helper: Spans an item full width across 2 columns */
@@ -160,9 +160,8 @@ tags: research
     .bottom-heavy-triple-grid .portrait-img img { height: 550px; }
     .bottom-heavy-triple-grid .full-width-row img { height: 420px; }
 
-    /* Layout H (Tailored Panorama Grid Desktop Constraints) */
-    .panorama-tailored-grid .full-width-row img { height: 480px; }
-    .panorama-tailored-grid .landscape-img img { height: auto; }
+    /* Layout I (Standalone Dual Landscape Grid Constraints) */
+    .dual-landscape-grid .landscape-img img { height: auto; }
   }
 
   /* ==========================================================================
@@ -175,7 +174,7 @@ tags: research
     .dual-portrait-grid,
     .top-heavy-triple-grid,
     .bottom-heavy-triple-grid,
-    .panorama-tailored-grid {
+    .dual-landscape-grid {
       grid-template-columns: 1fr;
       gap: 16px;
     }
@@ -357,14 +356,18 @@ tags: research
 
 <p> I'm beginning to get the hang of some aspects of the project, mostly relating to thinking about some problem and digesting new material. It's not uncommon that I will see some terms I haven't seen before, but I believe this is only natural at this point. We allegedly managed to solve the problem in general for \(\mathfrak{sl}_{d}(\mathbb{Z}_{p})\), though I believe there is still significant verification to be done. We were largely considering two different approaches, and some of my contributions partially proved the case in one instance (the Cartan subalgebra) but fell short in root spaces, whereas the other approach could, if treated precisely, be the missing puzzle piece for the problem. This was possible in part due to a completely random 2017 paper by Stasinski covering single commutator representations of elements in \(\mathfrak{sl}_{d}\) defined over any principal ideal ring. </p>
 
-<p> I suppose at this point, it is meaningful to ask some questions about myself. Considering my underlcassman status, I think it's reasonable to conclude that I won't be coming up with extremely novel ideas regarding <a href = "https://en.wikipedia.org/wiki/Hasse_principle">local-global principles</a> or anything structural or category-theoretic (which have been suggested). These are complex ideas. So what should I expect to do? I should expect to work hard and come up with small novelties, but I believe I am in no position to create grand results—I think this is a fair position. I've already digested a large amount of new material, and this alone has introduced me to numerous fields and advanced concepts, some even unexpected. For instance, entirely disjoint from the project, I was handed a paper on <a href = "https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange">isogeny-based cryptography</a>, which may or may not be interesting to me. The point is, maybe I shouldn't be too hard on myself. After a 4 hour meeting with our mentor several days ago, I left exhausted, having only understood half of what was presented by part of our own group as progress. I think this is natural, and of my own opinion, I think there is a certain point at which I have to stop asking the question "what's going on?" and instead ask "essentially what's going on?". I find this heuristic far more favorable toward me, as, like I mentioned before, it honors the sacred black box of confusion and not-knowing. </p>
-
-<div class="panorama-tailored-grid">
-  <figure class="grid-card full-width-row">
+<div class="standalone-image-container">
+  <figure class="grid-card landscape-img">
     <img src="/quadcryo/assets/img/aushosjlm.jpg" alt="Jerusalem Austrian Hospice view">
-    <figcaption>Sunset view of the Jerusalem Old City from the <a href = "https://en.wikipedia.org/wiki/Austrian_Pilgrim_Hospice_to_the_Holy_Family">Austrian Hospice</a></figcaption>
+    <figcaption>Sunset view of the Jerusalem Old City from the <a href = "https://en.wikipedia.org/wiki/Austrian_Pilgrim_Hospice_to_the_Holy_Family">Austrian Hospice</figcaption>
   </figure>
+</div>
 
+<p> I suppose at this point, it is meaningful to ask some questions about myself. Considering my position, I think it's reasonable to conclude that I won't be coming up with extremely novel ideas regarding <a href = "https://en.wikipedia.org/wiki/Hasse_principle">local-global principles</a> or anything structural or category-theoretic (which have been suggested). These are complex ideas. So what should I expect to do? I should expect to work hard and come up with small novelties, but I believe I am in no position to create grand results—I think this is a fair position. I've already digested a large amount of new material, and this alone has introduced me to numerous fields and advanced concepts, some even unexpected. For instance, entirely disjoint from the project, I was handed a paper on <a href = "https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange">isogeny-based cryptography</a>, which may or may not be interesting to me. The point is, maybe I shouldn't be too hard on myself. After a 4 hour meeting with our mentor several days ago, I left exhausted, having only understood half of what was presented by part of our own group as progress. I think this is natural, and of my own opinion, I think there is a certain point at which I have to stop asking the question "what's going on?" and instead ask "essentially what's going on?". I find this heuristic far more favorable toward me, as, like I mentioned before, it honors the sacred black box of confusion and not-knowing. </p>
+
+<p> This doesn't mean that striving ambitiously for novel results is incorrect. It simply means that the expectation of novelty and competence shouldn't be erroneously founded. </p>
+
+<div class="dual-landscape-grid">
   <figure class="grid-card landscape-img">
     <img src="/quadcryo/assets/img/reu.jpg" alt="Tel Aviv with REU">
     <figcaption>Really rEfined Undergraduates</figcaption>
@@ -376,8 +379,8 @@ tags: research
   </figure>
 </div>
 
-<p> This doesn't mean that striving ambitiously for novel results is incorrect. It simply means that the expectation of novelty and competence shouldn't be erroneously founded. </p>
-
 <p> Whilst on a train at the ungodly hour of 9:30am, a brief discussion arose concerning the usage of AI in research. I've written about this before <a href = "https://quadcryo.github.io/quadcryo/2026/future-mathematics/">here</a>, but at that point I did not have a vantage from which to think about the impact of AI on research. A question that I genuinely do not know the answer to stems from here: to what degree should one be qualified to assess the novelty and quality of research produced by AI as legitimate contribution to the literature? I think an obvious answer to this question could be "a professional in a given field," though this misses the point. In some mathematics research, the correct line of questioning and tweaking in an LLM should lead to a legitimate mathematical result, seeing as how advanced models are now (though not discounting future potential). This "correct line of questioning" is a lot more vague than it seems though, since theoretically anyone can ask a good or bad question, either leading to novel or non-novel results. So was the "mathematics research conducted" the line of questioning or the contents of the responses and the hypothetically novel results? </p>
 
 <p> Parallel to this, since it is well-established that mathematics generated by an LLM is only significant if understandable, is it disingenuous to minimize our own thinking to reserve time for interpreting LLM outputs—and then claim novelty? I'm really not too sure. Is an overdependence on AI in mathematics research just the beginning? </p>
+
+<p> Anyway, off to read a new 2025 paper on a new approach to the Solovay-Kitaev problem. </p>
