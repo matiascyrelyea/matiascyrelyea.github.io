@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-10T23:05:43+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-10T00:00:00+00:00</published><updated>2026-07-10T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-10T23:09:23+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-10T00:00:00+00:00</published><updated>2026-07-10T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
   /* ==========================================================================
      1. SHARED CARD & CAPTION BASE STYLES
      ========================================================================== */
@@ -115,7 +115,7 @@
     margin: 20px auto;
     padding: 10px;
     box-sizing: border-box;
-    align-items: end; /* Keeps their lower text baselines matched gracefully */
+    align-items: stretch; /* Prevents visual layout splitting */
   }
 
   /* Grid cell helper: Spans an item full width across 2 columns */
@@ -152,8 +152,8 @@
     .bottom-heavy-triple-grid .portrait-img img { height: 550px; }
     .bottom-heavy-triple-grid .full-width-row img { height: 420px; }
 
-    /* Layout I (Standalone Dual Landscape Grid Constraints) */
-    .dual-landscape-grid .landscape-img img { height: auto; }
+    /* Layout I (Standalone Dual Landscape Fix) */
+    .dual-landscape-grid .landscape-img img { height: 360px; }
   }
 
   /* ==========================================================================
