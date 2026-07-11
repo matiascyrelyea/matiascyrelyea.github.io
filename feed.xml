@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-11T14:45:47+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-11T00:00:00+00:00</published><updated>2026-07-11T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-11T15:24:19+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-11T00:00:00+00:00</published><updated>2026-07-11T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
   /* ==========================================================================
      1. SHARED CARD & CAPTION BASE STYLES
      ========================================================================== */
@@ -547,7 +547,19 @@
 <p> Anyway, this is my experience as a freshman applicant, and some advice that I gathered from people and resources online. Hopefully it will be useful. I'm always open to any suggestions or feedback!</p>
 <br />
 (Last updated 20 April, 2026)
-</p></p></p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[a guide to REUs from the freshman perspective (with my experiences)]]></summary></entry><entry><title type="html">The Quadratic and Cubic Characters of 2</title><link href="https://quadcryo.github.io/quadcryo/2026/quadcub2/" rel="alternate" type="text/html" title="The Quadratic and Cubic Characters of 2" /><published>2026-01-31T00:00:00+00:00</published><updated>2026-01-31T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/quadcub2</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/quadcub2/"><![CDATA[<p>(scroll to the bottom)</p>
+</p></p></p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[a guide to REUs from the freshman perspective (with my experiences)]]></summary></entry><entry><title type="html">The Quadratic and Cubic Characters of 2</title><link href="https://quadcryo.github.io/quadcryo/2026/quadcub2/" rel="alternate" type="text/html" title="The Quadratic and Cubic Characters of 2" /><published>2026-01-31T00:00:00+00:00</published><updated>2026-01-31T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/quadcub2</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/quadcub2/"><![CDATA[<nav>
+  <ul>
+    <li><a href="#0">2 October, 2024</a></li>
+    <li><a href="#1">11 October, 2024</a></li>
+    <li><a href="#2">5 March, 2025</a></li>
+    <li><a href="#3">17 March, 2025</a></li>
+    <li><a href="#4">20 June, 2025</a></li>
+    <li><a href="#5">26 June, 2025</a></li>
+    <li><a href="#6">31 January, 2026</a></li>
+  </ul>
+</nav>
+
+<h5 id="0">(2 October, 2024)</h5>
 
 <p> The submission process is everything but familiar to me. While I did submit to the arXiv, the arXiv is not a peer-reviewed journal, unlike many other mathematical journals. Over the past two months I have been working carefully on a paper that relates closely to the topic in <i> On Finite Fields and Higher Reciprocity </i>, and I was debating whether to submit it to the American Mathematical Monthly (AMM) - a prestigious journal for expository articles that is well-respected in the math community - or another journal such as the Mathematics Magazine (MM). After much thought and revision (as well as some much-needed guidance), I decided that my article was not novel enough to warrant a place in AMM, but that it would perhaps be suitable for MM. So, today (or rather yesterday), I submitted my article to MM. </p>
 
@@ -555,11 +567,11 @@
 
 <p>If the paper is rejected from MM, I can still possibly publish in a different undergraduate journal - we'll see. Either way, I'm going to post this paper on the arXiv at some point. I will update this page if anything happens. </p>
 
-<p>(2 October, 2024)</p>
+<h5 id="1">(11 October, 2024)</h5>
 
 <p>The paper is now informally available on this website. I am still awaiting notice from MM. A pdf (v1) is available <a href="https://quadcryo.github.io/quadcryo/assets/pdf/matias-quadcub2.pdf">here</a>, and the arXiv preprint is <a href="https://arxiv.org/abs/2410.21646">here</a>.</p>
 
-<p>(11 October, 2024)</p>
+<h5 id="2">(5 March, 2025)</h5>
 
 <p>This journey has reached an important milestone. It seems that my paper has been "reviewed favorably" by Mathematics Magazine, and after completing minor revisions, it will go on to publication. In this post, I'll cover a little bit of the timeline of the journey this paper has taken and some of my thoughts. </p>
 
@@ -569,19 +581,19 @@
 
 <p>Here are some initial thoughts. The publication process seems like something really exciting, but in reality, it's mostly waiting. Just waiting. And a lot of it. This should be pretty clear from the timeline shown as evidenced by the 4 month gap between submission and decision, but it really isn't put into perspective until you're in it. I found myself refreshing that page for a while until I eventually gave up - each step in the process felt like an eternal wait, so reaching a point with some more certainty is a great feeling. If I have any more thoughts or any interesting comments about referee comments on my paper, maybe I'll write more here. For now, it's just some revisions.</p>
 
-<p>(5 March, 2025)</p>
+<h5 id="3">(17 March, 2025)</h5>
 
 <p>Revisions only took about two weeks, and the paper will now be re-examined. Hopefully it takes just a couple weeks. I will post an updated version (v2) to the arXiv before publication, and will update that page accordingly. Thank you to everyone who has contributed to this and helped me throughout the process. As promised, here is an updated timeline.</p>
 
 <p><img src="/quadcryo/assets/img/revisions_submitted.png" alt="Timeline picture" style="height:100%;width:100%" class="center" /></p>
 
-<p>(17 March, 2025)</p>
+<h5 id="4">(20 June, 2025)</h5>
 
 <p>The article was returned on 19 June, 2025, with a few brief revisions (typos and punctuation) and one minor remark about an assumption made, as well as a guarantee of acceptance and publication after resubmitted. I made these changes quickly and added a remark to address the assumption, and now I guess I wait until either the paper is sent back out to reviewers (which I would find to be unnecessary because so little has been changed, but it's not up to me) or accepted by the editor. I think that the two scenarios have a very different timeframe... Either way, here is the timeline updated again. Until later!</p>
 
 <p><img src="/quadcryo/assets/img/R&amp;R submitted again.png" alt="Timeline picture resubmit" style="height:100%;width:100%" class="center" /></p>
 
-<p>(20 June, 2025)</p>
+<h5 id="5">(26 June, 2025)</h5>
 
 <p>As of today, 26 June, 2025, this article has been accepted for publication. There was a minor round of revisions from the editor that mostly pointed to punctuation and rephrasing of some sentences which I managed quickly. Mathematics Magazine indicates an average of 45 days from acceptance to online publication, but I don't know what to expect—I guess it depends on how close 26 June is to any individual 5-times-a-year publication. Below is the final timeline.</p>
 
@@ -595,12 +607,9 @@
 
 <p>Also I now officially endorse using em-dashes. </p>
 
-<p>(26 June, 2025)</p>
+<h5 id="6">(31 January, 2026)</h5>
 
-<p>Nearly 7 months later, this article has finally been published. This final update will conclude this post. Funnily enough, I can't access my own work through Taylor and Francis due to a paywall, but it exists (I'm pretty sure). This has been a great journey, and I'm hoping that it will happen many many more times. The article is likely more pleasantly read on this website or on the arXiv, but for those who either have institutional access or simply have money, the online version is linked <a href="https://www.tandfonline.com/doi/full/10.1080/0025570X.2025.2574223">here</a>. </p>
-
-<p><br /></p>
-<p>(31 January, 2026)</p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[publishing, from beginning to end]]></summary></entry><entry><title type="html">Journeys VI</title><link href="https://quadcryo.github.io/quadcryo/2025/journeys6/" rel="alternate" type="text/html" title="Journeys VI" /><published>2025-11-20T00:00:00+00:00</published><updated>2025-11-20T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/journeys6</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/journeys6/"><![CDATA[<p>Why is analysis so hard? At most universities, I imagine Real Analysis is the one class that makes people quit. It makes them writhe in pain and hatred, cursing themselves for ever choosing to major in mathematics. All of the intuitions that come out of nowhere, the frighteningly low grades on practically every midterm, and the appearance of \( \epsilon \) in dreams that become nightmares. Real Analysis isn't kind, and I've certainly learned that early on (luckily I'm not interested in becoming an analyst). I'm taking comfort in the fact that even though Real Analysis is humbling my knowledge of proofs and gaining intuition from nothing, I'm better now. I'm better at writing proofs. I'm better at coming up with intuition that seems buried. In the long term, this is the one course that will define how I approach future courses in mathematics. After final exams this semester, I might look back fondly on the trivialities of Real Analysis and dream of the wonders it beheld. And perhaps I should in the future, but for posterity, I would like this post to remember the malevolent ghost of Real Analysis that wanders my mind at the most troubling times.</p>]]></content><author><name></name></author><category term="journeys" /><summary type="html"><![CDATA[why is real analysis so hard]]></summary></entry><entry><title type="html">A Word</title><link href="https://quadcryo.github.io/quadcryo/2025/somewords/" rel="alternate" type="text/html" title="A Word" /><published>2025-05-02T00:00:00+00:00</published><updated>2025-05-02T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/somewords</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/somewords/"><![CDATA[<p> Today I learned that my teacher, mentor, and friend, Dr. Tamar Avineri, passed away due to cancer. This came as a complete shock to me, and I wanted to dedicate this piece to her and say a few words. </p>
+<p>Nearly 7 months later, this article has finally been published. This final update will conclude this post. Funnily enough, I can't access my own work through Taylor and Francis due to a paywall, but it exists (I'm pretty sure). This has been a great journey, and I'm hoping that it will happen many many more times. The article is likely more pleasantly read on this website or on the arXiv, but for those who either have institutional access or simply have money, the online version is linked <a href="https://www.tandfonline.com/doi/full/10.1080/0025570X.2025.2574223">here</a>. </p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[publishing, from beginning to end]]></summary></entry><entry><title type="html">Journeys VI</title><link href="https://quadcryo.github.io/quadcryo/2025/journeys6/" rel="alternate" type="text/html" title="Journeys VI" /><published>2025-11-20T00:00:00+00:00</published><updated>2025-11-20T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/journeys6</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/journeys6/"><![CDATA[<p>Why is analysis so hard? At most universities, I imagine Real Analysis is the one class that makes people quit. It makes them writhe in pain and hatred, cursing themselves for ever choosing to major in mathematics. All of the intuitions that come out of nowhere, the frighteningly low grades on practically every midterm, and the appearance of \( \epsilon \) in dreams that become nightmares. Real Analysis isn't kind, and I've certainly learned that early on (luckily I'm not interested in becoming an analyst). I'm taking comfort in the fact that even though Real Analysis is humbling my knowledge of proofs and gaining intuition from nothing, I'm better now. I'm better at writing proofs. I'm better at coming up with intuition that seems buried. In the long term, this is the one course that will define how I approach future courses in mathematics. After final exams this semester, I might look back fondly on the trivialities of Real Analysis and dream of the wonders it beheld. And perhaps I should in the future, but for posterity, I would like this post to remember the malevolent ghost of Real Analysis that wanders my mind at the most troubling times.</p>]]></content><author><name></name></author><category term="journeys" /><summary type="html"><![CDATA[why is real analysis so hard]]></summary></entry><entry><title type="html">A Word</title><link href="https://quadcryo.github.io/quadcryo/2025/somewords/" rel="alternate" type="text/html" title="A Word" /><published>2025-05-02T00:00:00+00:00</published><updated>2025-05-02T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/somewords</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/somewords/"><![CDATA[<p> Today I learned that my teacher, mentor, and friend, Dr. Tamar Avineri, passed away due to cancer. This came as a complete shock to me, and I wanted to dedicate this piece to her and say a few words. </p>
 
 <p> The first class I took with Dr. Avineri was Graph Theory, and I learned a great deal from that experience. It wasn't until the second semester that I was truly able to work with her after explaining my interest in reciprocity laws - I wrote a paper, and she worked with me to revise it, critiquing my proof-writing and giving her own prose suggestions. During that time, we developed a wonderful relationship. I began to see her as a mentor, as someone who could advise me and someone I could trust. </p>
 
