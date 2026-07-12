@@ -198,6 +198,46 @@ tags: research
       font-size: 13px; 
     }
   }
+
+  /* Layout J: Asymmetric Diagram Pair (Left Full-Scale, Right Horizontally Cropped) */
+  .asymmetric-clearance-grid {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr; /* Favors the left diagram */
+    gap: 12px;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: stretch; /* Forces right image to perfectly match left height */
+  }
+
+  @media (min-width: 769px) {
+    /* Left image determines the row height naturally with zero vertical clipping */
+    .asymmetric-clearance-grid .left-diagram img {
+      height: auto;
+    }
+    /* Right image fills the vertical space completely, clipping its sides cleanly */
+    .asymmetric-clearance-grid .right-cropped-board {
+      display: flex;
+    }
+    .asymmetric-clearance-grid .right-cropped-board img {
+      height: 100%;
+    }
+  }
+
+  /* Mobile Responsive Collapse */
+  @media (max-width: 768px) {
+    .asymmetric-clearance-grid {
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+    .asymmetric-clearance-grid .left-diagram img {
+      height: auto; /* Keep diagram safe on mobile screens too */
+    }
+    .asymmetric-clearance-grid .right-cropped-board img {
+      height: 240px;
+    }
+  }
 </style>
 
 
@@ -390,13 +430,13 @@ tags: research
 
 <p> One 2 hour talk later, I acquired some shawarma. This time the topic was a modification of the Solovay-Kitaev algorithm using a new notion known as a <i>higher commutator</i>, introduced by Elkasapy (late) and Thom in a <a href = "https://arxiv.org/abs/1311.0138">2013 paper</a>. There's still more to read in the literature here, but I found some notions in Kuperberg's paper, namely that of so-called "zigzag golf," particularly amusing. </p>
 
-<div class="dual-landscape-grid">
+<div class="asymmetric-clearance-grid">
   <figure class="grid-card landscape-img">
     <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf">
     <figcaption>Greedy long distance golf</figcaption>
   </figure>
 
-  <figure class="grid-card landscape-img">
+  <figure class="asymmetric-clearance-grid">
     <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes">
     <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
   </figure>
