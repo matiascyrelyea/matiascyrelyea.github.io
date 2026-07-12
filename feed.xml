@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-12T18:24:40+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-12T00:00:00+00:00</published><updated>2026-07-12T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-12T18:28:42+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-12T00:00:00+00:00</published><updated>2026-07-12T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
   /* ==========================================================================
      1. SHARED CARD & CAPTION BASE STYLES
      ========================================================================== */
@@ -419,14 +419,14 @@
 <p> One 2 hour talk later, I acquired some shawarma. This time the topic was a modification of the Solovay-Kitaev algorithm using a new notion known as a <i>higher commutator</i>, introduced by Elkasapy (late) and Thom in a <a href="https://arxiv.org/abs/1311.0138">2013 paper</a>. There's still more to read in the literature here, but I found some notions in Kuperberg's paper, namely that of so-called "zigzag golf," particularly amusing. </p>
 
 <div class="asymmetric-clearance-grid">
-  <figure class="grid-card left-diagram">
-    <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf" />
-    <figcaption>Greedy long distance golf</figcaption>
+<figure class="grid-card left-diagram">
+    <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes" />
+    <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
   </figure>
 
   <figure class="grid-card right-cropped-board">
-    <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes" />
-    <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
+    <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf" />
+    <figcaption>Greedy long distance golf</figcaption>
   </figure>
 </div>
 
