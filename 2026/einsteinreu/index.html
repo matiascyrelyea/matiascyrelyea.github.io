@@ -308,16 +308,25 @@
     /* Layout I (Standalone Dual Landscape Fix) */
     .dual-landscape-grid .landscape-img img { height: 360px; }
 
-    /* Layout J (Asymmetric Diagram Control - Enforced Parameters) */
-    .asymmetric-clearance-grid .grid-card img { height: 460px; }
-    .asymmetric-clearance-grid .left-diagram img {
-      object-fit: contain !important;
-      max-height: 100%;
-      width: 100% !important;
+    /* Layout J (Asymmetric Diagram Desktop Bounds Fixed) */
+    .asymmetric-clearance-grid .left-diagram,
+    .asymmetric-clearance-grid .right-cropped-board {
+      height: 450px; /* Locks container height perfectly */
+    }
+    .asymmetric-clearance-grid .left-diagram {
       background-color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .asymmetric-clearance-grid .left-diagram img {
+      height: 100%;
+      width: auto; /* Scales proportionally horizontally without layout overflow */
+      object-fit: contain;
     }
     .asymmetric-clearance-grid .right-cropped-board img {
-      object-fit: cover !important;
+      height: 100%;
+      object-fit: cover; /* Crops sides cleanly to flush match diagram height */
     }
   }
 
@@ -325,7 +334,6 @@
      4. MOBILE RESPONSIVE CONTROL (Screen width <= 768px)
      ========================================================================== */
   @media (max-width: 768px) {
-    /* Collapse all grids down to a single clean column block */
     .mobile-friendly-grid, 
     .triple-image-grid,
     .dual-portrait-grid,
@@ -337,12 +345,10 @@
       gap: 16px;
     }
     
-    /* Turn off grid spanning on mobile screens */
     .full-width-row {
       grid-column: span 1; 
     }
     
-    /* Mobile core height rules */
     .landscape-img img, 
     .full-width-row img,
     .asymmetric-clearance-grid .right-cropped-board img { 
@@ -353,10 +359,9 @@
       height: 420px; 
     }
 
-    /* Keep left graphic uncropped vertically on mobile devices */
     .asymmetric-clearance-grid .left-diagram img {
       height: auto;
-      object-fit: contain !important;
+      object-fit: contain;
       background-color: #ffffff;
     }
     
@@ -555,12 +560,12 @@
 <p> One 2 hour talk later, I acquired some shawarma. This time the topic was a modification of the Solovay-Kitaev algorithm using a new notion known as a <i>higher commutator</i>, introduced by Elkasapy (late) and Thom in a <a href="https://arxiv.org/abs/1311.0138" rel="external nofollow noopener" target="_blank">2013 paper</a>. There's still more to read in the literature here, but I found some notions in Kuperberg's paper, namely that of so-called "zigzag golf," particularly amusing. </p>
 
 <div class="asymmetric-clearance-grid">
-  <figure class="grid-card landscape-img">
+  <figure class="grid-card left-diagram">
     <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf">
     <figcaption>Greedy long distance golf</figcaption>
   </figure>
 
-  <figure class="asymmetric-clearance-grid">
+  <figure class="grid-card right-cropped-board">
     <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes">
     <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
   </figure>
