@@ -199,29 +199,33 @@ tags: research
     }
   }
 
-  /* Layout J: Asymmetric Diagram Pair (Left Full-Scale, Right Horizontally Cropped) */
+/* Layout J: Fixed Bounded Asymmetric Diagram Pair (No Layout Overflow) */
   .asymmetric-clearance-grid {
     display: grid;
-    grid-template-columns: 1.15fr 0.85fr; /* Favors the left diagram */
+    grid-template-columns: 1.15fr 0.85fr; /* Keeps left column wider */
     gap: 12px;
     max-width: 1000px;
     margin: 20px auto;
     padding: 10px;
     box-sizing: border-box;
-    align-items: stretch; /* Forces right image to perfectly match left height */
+    align-items: stretch;
   }
 
   @media (min-width: 769px) {
-    /* Left image determines the row height naturally with zero vertical clipping */
+    /* 1. Set a firm desktop height cap so images cannot grow massively */
+    .asymmetric-clearance-grid .grid-card img {
+      height: 440px; 
+    }
+
+    /* 2. Switch the left diagram container to use fit contain */
     .asymmetric-clearance-grid .left-diagram img {
-      height: auto;
+      object-fit: contain; /* Prevents any edge, label, or bottom caption text from being sliced */
+      background-color: #ffffff; /* Fills out empty horizontal space cleanly with a crisp page backing */
     }
-    /* Right image fills the vertical space completely, clipping its sides cleanly */
-    .asymmetric-clearance-grid .right-cropped-board {
-      display: flex;
-    }
+
+    /* 3. Keep the right whiteboard running fill crop */
     .asymmetric-clearance-grid .right-cropped-board img {
-      height: 100%;
+      object-fit: cover; /* Trims sides cleanly to perfectly line up its heights with the diagram */
     }
   }
 
@@ -232,10 +236,12 @@ tags: research
       gap: 16px;
     }
     .asymmetric-clearance-grid .left-diagram img {
-      height: auto; /* Keep diagram safe on mobile screens too */
+      height: auto;
+      object-fit: contain;
     }
     .asymmetric-clearance-grid .right-cropped-board img {
       height: 240px;
+      object-fit: cover;
     }
   }
 </style>
