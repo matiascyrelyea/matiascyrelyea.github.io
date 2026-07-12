@@ -210,7 +210,7 @@ tags: research
     <li><a href="#4">28 June, 2026</a></li>
     <li><a href="#5">3 July, 2026</a></li>
     <li><a href="#6">10 July, 2026</a></li>
-    <li><a href="#7">12 July, 2026</a></li>>
+    <li><a href="#7">12 July, 2026</a></li>
   </ul>
 </nav>
 
