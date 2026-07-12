@@ -429,14 +429,14 @@ tags: research
 <p> One 2 hour talk later, I acquired some shawarma. This time the topic was a modification of the Solovay-Kitaev algorithm using a new notion known as a <i>higher commutator</i>, introduced by Elkasapy (late) and Thom in a <a href = "https://arxiv.org/abs/1311.0138">2013 paper</a>. There's still more to read in the literature here, but I found some notions in Kuperberg's paper, namely that of so-called "zigzag golf," particularly amusing. </p>
 
 <div class="asymmetric-clearance-grid">
-  <figure class="grid-card left-diagram">
-    <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf">
-    <figcaption>Greedy long distance golf</figcaption>
+<figure class="grid-card left-diagram">
+    <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes">
+    <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
   </figure>
 
   <figure class="grid-card right-cropped-board">
-    <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes">
-    <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
+    <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf">
+    <figcaption>Greedy long distance golf</figcaption>
   </figure>
 </div>
 
