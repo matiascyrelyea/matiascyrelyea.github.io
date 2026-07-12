@@ -123,7 +123,19 @@ tags: research
     margin: 20px auto;
     padding: 10px;
     box-sizing: border-box;
-    align-items: stretch; /* Prevents visual layout splitting */
+    align-items: stretch;
+  }
+
+  /* Layout J: Fixed Bounded Asymmetric Diagram Pair */
+  .asymmetric-clearance-grid {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 12px;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: stretch;
   }
 
   /* Grid cell helper: Spans an item full width across 2 columns */
@@ -162,6 +174,18 @@ tags: research
 
     /* Layout I (Standalone Dual Landscape Fix) */
     .dual-landscape-grid .landscape-img img { height: 360px; }
+
+    /* Layout J (Asymmetric Diagram Control - Enforced Parameters) */
+    .asymmetric-clearance-grid .grid-card img { height: 460px; }
+    .asymmetric-clearance-grid .left-diagram img {
+      object-fit: contain !important;
+      max-height: 100%;
+      width: 100% !important;
+      background-color: #ffffff;
+    }
+    .asymmetric-clearance-grid .right-cropped-board img {
+      object-fit: cover !important;
+    }
   }
 
   /* ==========================================================================
@@ -174,7 +198,8 @@ tags: research
     .dual-portrait-grid,
     .top-heavy-triple-grid,
     .bottom-heavy-triple-grid,
-    .dual-landscape-grid {
+    .dual-landscape-grid,
+    .asymmetric-clearance-grid {
       grid-template-columns: 1fr;
       gap: 16px;
     }
@@ -186,62 +211,24 @@ tags: research
     
     /* Mobile core height rules */
     .landscape-img img, 
-    .full-width-row img { 
+    .full-width-row img,
+    .asymmetric-clearance-grid .right-cropped-board img { 
       height: 240px; 
     }
     
     .portrait-img img { 
       height: 420px; 
     }
+
+    /* Keep left graphic uncropped vertically on mobile devices */
+    .asymmetric-clearance-grid .left-diagram img {
+      height: auto;
+      object-fit: contain !important;
+      background-color: #ffffff;
+    }
     
     .grid-card figcaption { 
       font-size: 13px; 
-    }
-  }
-
-/* Layout J: Fixed Bounded Asymmetric Diagram Pair (No Layout Overflow) */
-  .asymmetric-clearance-grid {
-    display: grid;
-    grid-template-columns: 1.15fr 0.85fr; /* Keeps left column wider */
-    gap: 12px;
-    max-width: 1000px;
-    margin: 20px auto;
-    padding: 10px;
-    box-sizing: border-box;
-    align-items: stretch;
-  }
-
-  @media (min-width: 769px) {
-    /* 1. Set a firm desktop height cap so images cannot grow massively */
-    .asymmetric-clearance-grid .grid-card img {
-      height: 440px; 
-    }
-
-    /* 2. Switch the left diagram container to use fit contain */
-    .asymmetric-clearance-grid .left-diagram img {
-      object-fit: contain; /* Prevents any edge, label, or bottom caption text from being sliced */
-      background-color: #ffffff; /* Fills out empty horizontal space cleanly with a crisp page backing */
-    }
-
-    /* 3. Keep the right whiteboard running fill crop */
-    .asymmetric-clearance-grid .right-cropped-board img {
-      object-fit: cover; /* Trims sides cleanly to perfectly line up its heights with the diagram */
-    }
-  }
-
-  /* Mobile Responsive Collapse */
-  @media (max-width: 768px) {
-    .asymmetric-clearance-grid {
-      grid-template-columns: 1fr;
-      gap: 16px;
-    }
-    .asymmetric-clearance-grid .left-diagram img {
-      height: auto;
-      object-fit: contain;
-    }
-    .asymmetric-clearance-grid .right-cropped-board img {
-      height: 240px;
-      object-fit: cover;
     }
   }
 </style>
