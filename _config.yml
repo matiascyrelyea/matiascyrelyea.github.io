@@ -250,6 +250,11 @@ defaults:
       path: "assets"
     values:
       sitemap: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      giscus_comments: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
