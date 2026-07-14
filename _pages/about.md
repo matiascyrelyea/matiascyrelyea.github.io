@@ -20,3 +20,15 @@ profile:
 
 <p> Oh, and a little <a href="https://texnique.xyz">TeXnique</a> can't hurt right? </p>
 
+<h6><i>Some people, in no particular order</i></h6>
+<ul>
+    <li><a href = "https://terrytao.wordpress.com/">Terrence Tao</a></li>
+    <li><a href = "https://sites.google.com/view/orelig/">Orestis Lignos</a></li>
+    <li><a href = "https://agniv.me/">Agniv Sarkar</a></li>
+    <li><a href = "https://eulercircle.com/people/">Simon Rubinstein-Salzedo</a></li>
+    <li><a href = "https://alexpasch.al/">Alex Paschal</a></li>
+    <li><a href = "https://12buntu.github.io/Book-N/">Kyle Hollars</a></li>
+    <li><a href = "https://web.evanchen.cc/">Evan Chen</a></li>
+</ul>
+
+
