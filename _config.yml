@@ -150,18 +150,18 @@ related_blog_posts:
  # emit_metadata: 0
  # lang: en
 
-  giscus:
-    repo: quadcryo/quadcryo
-    repo_id: R_kgDOJkZmNw
-    category: Announcements
-    category_id: DIC_kwDOJkZmN84DBNrs
-    mapping: pathname
-    strict: 0
-    reactions_enabled: 1
-    input_position: top
-    theme: preferred_color_scheme
-    emit_metadata: 0
-    lang: en
+giscus:
+  repo: quadcryo/quadcryo
+  repo_id: R_kgDOJkZmNw
+  category: Announcements
+  category_id: DIC_kwDOJkZmN84DBNrs
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  input_position: top
+  theme: preferred_color_scheme
+  emit_metadata: 0
+  lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
