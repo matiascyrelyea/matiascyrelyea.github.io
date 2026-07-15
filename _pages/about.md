@@ -19,5 +19,3 @@ profile:
 <p> I wrote a <a href="https://quadcryo.github.io/quadcryo/2026/mathreus/">math REU application guide</a> for the 2026 cycle from a first year perspective, check it out. </p>
 
 <p> Oh, and a little <a href="https://texnique.xyz">TeXnique</a> can't hurt right? </p>
-
-<p> <i>Some people, in no particular order:</i> <a href = "https://terrytao.wordpress.com/">Terence Tao</a>, <a href = "https://sites.google.com/view/orelig/">Orestis Lignos</a>, <a href = "https://agniv.me/">Agniv Sarkar</a>, <a href = "https://eulercircle.com/people/">Simon Rubinstein-Salzedo</a>, <a href = "https://alexpasch.al/">Alex Paschal</a>, <a href = "https://12buntu.github.io/Book-N/">Kyle Hollars</a>, <a href = "https://web.evanchen.cc/">Evan Chen</a>, <a href = "https://www.gmlavigne.com/">Michael Lavigne</a></p>

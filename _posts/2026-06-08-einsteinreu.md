@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Einstein Institute of Mathematics REU
-date:   2026-07-12 00:00-00
-description: happenings this summer
-tags: research
+date:   2026-07-15 00:00-00
+description: happenings for summer 2026
+tags: mathematics research
 ---
 
 <style>
@@ -444,3 +444,22 @@ tags: research
 
 <p> My mentor also mentioned a funny notion known as "known by the experts." In simple words, it can describe a collection of results that is <i>probably</i> true, but allegedly no one has had the time to write a paper on it. This, allegedly again, is for the students to fill in—a gap in the literature. I find this idea interesting, and perhaps now, maybe even a bit archaic. With AI research becoming commonplace, is mathematical research dense? How many small things like "known by the experts"—things that sound and behave like tradition—will disappear as the filling-of-gaps becomes a menial task for LLMs instead of a tricky problem for a student? Is tradition like this something we should preserve or is it something we should treat as old-fashioned and a look back at older times? </p>
 
+<h5 id = "8">(15 July, 2026)</h5>
+
+<p> I hope some of the entries here, in posterity, both for myself and anyone who bothers to read it, represent how an REU gives a chance to do more stuff than just sit around (or stand around) and think about mathematics all day. In any field, community is vital. People may disagree on many things like philosophy, politics, possibly even the field itself, but the best things about communities like this are the openness of dialogue. </p>
+
+<div class="standalone-image-container">
+  <figure class="grid-card landscape-img">
+    <img src="/quadcryo/assets/img/reusunset.jpg" alt="haifa sunset">
+    <figcaption><a href = "https://en.wikipedia.org/wiki/Haifa">https://en.wikipedia.org/wiki/Haifa</a> sunset and a 20km "hike"</figcaption>
+  </figure>
+</div>
+
+<p> The work is becoming increasingly technical. For instance, whose fault is it that I don't know anything about <a href = "https://en.wikipedia.org/wiki/Lipschitz_continuity">Lipschitz continuity</a>?! Jokes aside, Lie theory is exceptionally beautiful, and I suppose now I'm getting a chance to stroll through it. "We are mathematicians, this is what we do."
+
+<div class="standalone-image-container">
+  <figure class="grid-card landscape-img">
+    <img src="/quadcryo/assets/img/solovaykitaev6.jpg" alt="kuperberg lie theory">
+    <figcaption>Presentation on Lie theory and Kuperberg and Elkasapy's contributions</figcaption>
+  </figure>
+</div>
