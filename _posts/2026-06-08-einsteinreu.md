@@ -447,16 +447,16 @@ tags: mathematics research
 
 <h5 id = "8">(15 July, 2026)</h5>
 
-<p> I hope some of the entries here, in posterity, both for myself and anyone who bothers to read it, represent how an REU gives a chance to do more stuff than just sit around (or stand around) and think about mathematics all day. In any field, community is vital. People may disagree on many things like philosophy, politics, possibly even the field itself, but the best things about communities like this are the openness of dialogue. </p>
+<p> I hope some of the entries here, in posterity, both for myself and anyone who bothers to read it, represent how an REU gives a chance to do more stuff than just sit around (or stand around) and think about mathematics all day. In any field, community is vital. People may disagree on many things like philosophy, politics, possibly even the field itself, but the best things about communities like this are the openness of dialogue. Speaking of dialogue, my good friend <a href = "https://sites.google.com/view/orelig/">Orestis</a> has returned home—may he continue winning gold medals not only mathematically but spiritually as well. </p>
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
     <img src="/quadcryo/assets/img/reusunset.jpg" alt="haifa sunset">
-    <figcaption><a href = "https://en.wikipedia.org/wiki/Haifa">https://en.wikipedia.org/wiki/Haifa</a> sunset and a 20km "hike"</figcaption>
+    <figcaption><a href = "https://en.wikipedia.org/wiki/Haifa">Haifa</a> sunset and a 20km "hike" (we will ignore the fact that 28.57% of the people in the image are theoretically theoretical physicists, empirically)</figcaption>
   </figure>
 </div>
 
-<p> The work is becoming increasingly technical. For instance, whose fault is it that I don't know anything about <a href = "https://en.wikipedia.org/wiki/Lipschitz_continuity">Lipschitz continuity</a>?! Jokes aside, Lie theory is exceptionally beautiful, and I suppose now I'm getting a chance to stroll through it. "We are mathematicians, this is what we do."
+<p> The understanding is becoming increasingly technical. For instance, whose fault is it that I don't know anything about <a href = "https://en.wikipedia.org/wiki/Lipschitz_continuity">Lipschitz continuity</a>?! Jokes aside, Lie theory is exceptionally beautiful, and I suppose now I'm getting a chance to take a more winding stroll through it. "We are mathematicians, this is what we do."
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
