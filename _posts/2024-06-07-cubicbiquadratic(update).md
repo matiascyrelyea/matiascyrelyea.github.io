@@ -25,6 +25,6 @@ tags: mathematics
 
 <p>(25 June, 2024)</p>
 
-<p>The paper is now on this site as well as on the arXiv. For the version on this website, check <a href="https://quadcryo.github.io/quadcryo/papers/">here</a>. For the version on the arXiv, check <a href="https://arxiv.org/abs/2407.03559">here</a>.</p>
+<p>The paper is now on this site as well as on the arXiv. For the version on this website, check <a href="https://matiascyrelyea.github.io/papers/">here</a>. For the version on the arXiv, check <a href="https://arxiv.org/abs/2407.03559">here</a>.</p>
 
 <p>(7 July, 2024)</p>

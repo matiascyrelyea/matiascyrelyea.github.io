@@ -266,22 +266,22 @@ tags: mathematics research
 
 <div class="mobile-friendly-grid">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/solovaykitaev.jpg" alt="Flash presentation about the project">
+    <img src="/assets/img/solovaykitaev.jpg" alt="Flash presentation about the project">
     <figcaption>Flash presentation about the project</figcaption>
   </figure>
   
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/sabiche.jpg" alt="Sabich">
+    <img src="/assets/img/sabiche.jpg" alt="Sabich">
     <figcaption><a href="https://en.wikipedia.org/wiki/Sabich" target="_blank">Sabich</a>!</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/einsteinstatue.jpg" alt="Albert Einstein statue in front of the Ross Building">
+    <img src="/assets/img/einsteinstatue.jpg" alt="Albert Einstein statue in front of the Ross Building">
     <figcaption>Albert Einstein statue in front of the Ross Building</figcaption>
   </figure>
   
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/einsteinpic.jpg" alt="The Einstein Institute of Mathematics at the Hebrew University of Jerusalem (HUJI)">
+    <img src="/assets/img/einsteinpic.jpg" alt="The Einstein Institute of Mathematics at the Hebrew University of Jerusalem (HUJI)">
     <figcaption>The Einstein Institute of Mathematics at the Hebrew University of Jerusalem (HUJI)</figcaption>
   </figure>
 </div>
@@ -301,7 +301,7 @@ tags: mathematics research
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/einsteinlibrary.jpg" alt="Mathematics library at the Manchester Building">
+    <img src="/assets/img/einsteinlibrary.jpg" alt="Mathematics library at the Manchester Building">
     <figcaption>Mathematics library at the Manchester Building</figcaption>
   </figure>
 </div>
@@ -316,17 +316,17 @@ tags: mathematics research
 
 <div class="triple-image-grid">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/iiasboard1.jpg" alt="Whiteboard notes from Oxford University speaker Emmanuel Breuillard; Uniform expansion for finite simple groups ">
+    <img src="/assets/img/iiasboard1.jpg" alt="Whiteboard notes from Oxford University speaker Emmanuel Breuillard; Uniform expansion for finite simple groups ">
     <figcaption>Whiteboard notes from Oxford University speaker Emmanuel Breuillard ("assuming <a href="https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis">GRH</a>" on the right); <i> Uniform expansion for finite simple groups </i></figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/conferenceid.jpg" alt="IIAS conference badge">
+    <img src="/assets/img/conferenceid.jpg" alt="IIAS conference badge">
     <figcaption>IIAS conference badge</figcaption>
   </figure>
 
   <figure class="grid-card full-width-row">
-    <img src="/quadcryo/assets/img/campuspic.jpg" alt="In the shade outside the IIAS on the Givat Ram campus">
+    <img src="""/assets/img/campuspic.jpg" alt="In the shade outside the IIAS on the Givat Ram campus">
     <figcaption>In the shade outside the IIAS on the Givat Ram campus</figcaption>
   </figure>
 </div>
@@ -341,17 +341,17 @@ tags: mathematics research
 
   <div class="top-heavy-triple-grid">
   <figure class="grid-card full-width-row">
-    <img src="/quadcryo/assets/img/solovaykitaev3.jpg" alt="Solovay-Kitaev theorem extension whiteboard session">
+    <img src="/assets/img/solovaykitaev3.jpg" alt="Solovay-Kitaev theorem extension whiteboard session">
     <figcaption>Pesudo-chalk (whiteboard) presentation about the SK theorem and other stuff</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/nationallibrary.jpg" alt="The National Library of Israel building exterior">
+    <img src="/assets/img/nationallibrary.jpg" alt="The National Library of Israel building exterior">
     <figcaption>The National Library of Israel</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/jewishduck.jpg" alt="Group theory proof notes featuring an Eastern Orthodox duck illustration">
+    <img src="/assets/img/jewishduck.jpg" alt="Group theory proof notes featuring an Eastern Orthodox duck illustration">
     <figcaption>Eastern Orthodox duck, courtesy of me</figcaption>
   </figure>
 </div>
@@ -362,7 +362,7 @@ tags: mathematics research
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/reuroom3.jpg" alt="A whiteboard unfortunately">
+    <img src="/assets/img/reuroom3.jpg" alt="A whiteboard unfortunately">
     <figcaption>A whiteboard unfortunately; for some reason this room is simultaneously on the third and fourth floor</figcaption>
   </figure>
 </div>
@@ -373,17 +373,17 @@ tags: mathematics research
 
 <div class="bottom-heavy-triple-grid">
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/computerpic1.jpg" alt="Typing up some stuff">
+    <img src="/assets/img/computerpic1.jpg" alt="Typing up some stuff">
     <figcaption>Typing up some stuff</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/hillelst.jpg" alt="Hillel Street">
+    <img src="/assets/img/hillelst.jpg" alt="Hillel Street">
     <figcaption>Hillel Street</figcaption>
   </figure>
 
   <figure class="grid-card full-width-row">
-    <img src="/quadcryo/assets/img/wbpadics.jpg" alt="p-adics">
+    <img src="/assets/img/wbpadics.jpg" alt="p-adics">
     <figcaption>\(p\)-adics and \(\mathfrak{sl}_{d}(\mathbb{Z}_{p})\)</figcaption>
   </figure>
 </div>
@@ -398,7 +398,7 @@ tags: mathematics research
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/aushosjlm.jpg" alt="Jerusalem Austrian Hospice view">
+    <img src="/assets/img/aushosjlm.jpg" alt="Jerusalem Austrian Hospice view">
     <figcaption>Sunset view of the Jerusalem Old City from the <a href = "https://en.wikipedia.org/wiki/Austrian_Pilgrim_Hospice_to_the_Holy_Family">Austrian Hospice</a></figcaption>
   </figure>
 </div>
@@ -409,17 +409,17 @@ tags: mathematics research
 
 <div class="dual-landscape-grid">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/reu.jpg" alt="Tel Aviv with REU">
+    <img src="/assets/img/reu.jpg" alt="Tel Aviv with REU">
     <figcaption>Really rEfined Undergraduates</figcaption>
   </figure>
 
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/solovaykitaev4.jpg" alt="Elementary progress on sl_d(z_p)">
+    <img src="/assets/img/solovaykitaev4.jpg" alt="Elementary progress on sl_d(z_p)">
     <figcaption>Elementary computations for \(\mathfrak{sl}_{d}(\mathbb{Z}_{p})\) involving the Cartan subalgebra of its root space decomposition</figcaption>
   </figure>
 </div>
 
-<p> Whilst on a train at the ungodly hour of 9:30am, a brief discussion arose concerning the usage of AI in research. I've written about this before <a href = "https://quadcryo.github.io/quadcryo/2026/future-mathematics/">here</a>, but at that point I did not have a vantage from which to think about the impact of AI on research. A question that I genuinely do not know the answer to stems from here: to what degree should one be qualified to assess the novelty and quality of research produced by AI as legitimate contribution to the literature? I think an obvious answer to this question could be "a professional in a given field," though this misses the point. In some mathematics research, the correct line of questioning and tweaking in an LLM should lead to a legitimate mathematical result, seeing as how advanced models are now (though not discounting future potential). This "correct line of questioning" is a lot more vague than it seems though, since theoretically anyone can ask a good or bad question, either leading to novel or non-novel results. So was the "mathematics research conducted" the line of questioning or was it the contents of the responses and the hypothetically novel results? </p>
+<p> Whilst on a train at the ungodly hour of 9:30am, a brief discussion arose concerning the usage of AI in research. I've written about this before <a href = "https://matiascyrelyea.github.io/2026/future-mathematics/">here</a>, but at that point I did not have a vantage from which to think about the impact of AI on research. A question that I genuinely do not know the answer to stems from here: to what degree should one be qualified to assess the novelty and quality of research produced by AI as legitimate contribution to the literature? I think an obvious answer to this question could be "a professional in a given field," though this misses the point. In some mathematics research, the correct line of questioning and tweaking in an LLM should lead to a legitimate mathematical result, seeing as how advanced models are now (though not discounting future potential). This "correct line of questioning" is a lot more vague than it seems though, since theoretically anyone can ask a good or bad question, either leading to novel or non-novel results. So was the "mathematics research conducted" the line of questioning or was it the contents of the responses and the hypothetically novel results? </p>
 
 <p> Parallel to this, since it is well-established that mathematics generated by an LLM is only significant if understandable, is it disingenuous to minimize our own thinking to reserve time for interpreting LLM outputs—and then claim novelty? I'm really not too sure. Is an overdependence on AI in mathematics research just the beginning? </p>
 
@@ -431,12 +431,12 @@ tags: mathematics research
 
 <div class="asymmetric-clearance-grid">
 <figure class="grid-card left-diagram">
-    <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes">
+    <img src="/assets/img/solovaykitaev5.jpg" alt="Presentation notes">
     <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
   </figure>
 
   <figure class="grid-card right-cropped-board">
-    <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf">
+    <img src="/assets/img/greedygolf.png" alt="greedy long distance golf">
     <figcaption>Greedy long distance golf</figcaption>
   </figure>
 </div>
@@ -451,7 +451,7 @@ tags: mathematics research
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/reusunset.jpg" alt="haifa sunset">
+    <img src="/assets/img/reusunset.jpg" alt="haifa sunset">
     <figcaption><a href = "https://en.wikipedia.org/wiki/Haifa">Haifa</a> sunset and a 20km "hike" (we will ignore the fact that 28.57% of the people in the image are theoretically theoretical physicists, empirically)</figcaption>
   </figure>
 </div>
@@ -460,7 +460,7 @@ tags: mathematics research
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/solovaykitaev6.jpg" alt="kuperberg lie theory">
+    <img src="/assets/img/solovaykitaev6.jpg" alt="kuperberg lie theory">
     <figcaption>Presentation on Lie theory and Kuperberg and Elkasapy's contributions</figcaption>
   </figure>
 </div>

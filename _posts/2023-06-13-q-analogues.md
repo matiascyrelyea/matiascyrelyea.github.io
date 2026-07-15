@@ -13,4 +13,4 @@ tags: mathematics
 
 <p>In this expository paper, we will outline several interesting properties of the $$q$$-factorial and its relationship with inversions, the \(q\)-derivative and the \(q\)-analogue of Taylor's theorem, a theorem about the uniqueness of \(q\)-antiderivatives up to a constant alongside evaluation of definite \(q\)-integrals, as well as several perspectives and proofs of the \(q\)-binomial theorem. We will conclude with an introduction to the \(q\)-Pochhammer symbol, and use it to define the \(q\)-hypergeometric function and prove an interesting fact about the special \(q\)-hypergeometric series \({}_{1}\Phi_{0}\). <p>
 
-<p>As of now, this paper is complete and can be found <a href="https://quadcryo.github.io/quadcryo/assets/pdf/matias-qanalogues.pdf">here</a>.</p>
+<p>As of now, this paper is complete and can be found <a href="https://matiascyrelyea.github.io/assets/pdf/matias-qanalogues.pdf">here</a>.</p>
