@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://quadcryo.github.io/quadcryo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://quadcryo.github.io/quadcryo/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-15T14:17:21+00:00</updated><id>https://quadcryo.github.io/quadcryo/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://quadcryo.github.io/quadcryo/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-15T00:00:00+00:00</published><updated>2026-07-15T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/einsteinreu</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/einsteinreu/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://matiascyrelyea.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://matiascyrelyea.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-15T14:56:30+00:00</updated><id>https://matiascyrelyea.github.io/feed.xml</id><title type="html">Matias Relyea 賀彥龍</title><subtitle></subtitle><entry><title type="html">Einstein Institute of Mathematics REU</title><link href="https://matiascyrelyea.github.io/2026/einsteinreu/" rel="alternate" type="text/html" title="Einstein Institute of Mathematics REU" /><published>2026-07-15T00:00:00+00:00</published><updated>2026-07-15T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2026/einsteinreu</id><content type="html" xml:base="https://matiascyrelyea.github.io/2026/einsteinreu/"><![CDATA[<style>
   /* ==========================================================================
      1. SHARED CARD & CAPTION BASE STYLES
      ========================================================================== */
@@ -257,22 +257,22 @@
 
 <div class="mobile-friendly-grid">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/solovaykitaev.jpg" alt="Flash presentation about the project" />
+    <img src="/assets/img/solovaykitaev.jpg" alt="Flash presentation about the project" />
     <figcaption>Flash presentation about the project</figcaption>
   </figure>
   
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/sabiche.jpg" alt="Sabich" />
+    <img src="/assets/img/sabiche.jpg" alt="Sabich" />
     <figcaption><a href="https://en.wikipedia.org/wiki/Sabich" target="_blank">Sabich</a>!</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/einsteinstatue.jpg" alt="Albert Einstein statue in front of the Ross Building" />
+    <img src="/assets/img/einsteinstatue.jpg" alt="Albert Einstein statue in front of the Ross Building" />
     <figcaption>Albert Einstein statue in front of the Ross Building</figcaption>
   </figure>
   
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/einsteinpic.jpg" alt="The Einstein Institute of Mathematics at the Hebrew University of Jerusalem (HUJI)" />
+    <img src="/assets/img/einsteinpic.jpg" alt="The Einstein Institute of Mathematics at the Hebrew University of Jerusalem (HUJI)" />
     <figcaption>The Einstein Institute of Mathematics at the Hebrew University of Jerusalem (HUJI)</figcaption>
   </figure>
 </div>
@@ -292,7 +292,7 @@
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/einsteinlibrary.jpg" alt="Mathematics library at the Manchester Building" />
+    <img src="/assets/img/einsteinlibrary.jpg" alt="Mathematics library at the Manchester Building" />
     <figcaption>Mathematics library at the Manchester Building</figcaption>
   </figure>
 </div>
@@ -306,17 +306,17 @@
 
 <div class="triple-image-grid">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/iiasboard1.jpg" alt="Whiteboard notes from Oxford University speaker Emmanuel Breuillard; Uniform expansion for finite simple groups " />
+    <img src="/assets/img/iiasboard1.jpg" alt="Whiteboard notes from Oxford University speaker Emmanuel Breuillard; Uniform expansion for finite simple groups " />
     <figcaption>Whiteboard notes from Oxford University speaker Emmanuel Breuillard ("assuming <a href="https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis">GRH</a>" on the right); <i> Uniform expansion for finite simple groups </i></figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/conferenceid.jpg" alt="IIAS conference badge" />
+    <img src="/assets/img/conferenceid.jpg" alt="IIAS conference badge" />
     <figcaption>IIAS conference badge</figcaption>
   </figure>
 
   <figure class="grid-card full-width-row">
-    <img src="/quadcryo/assets/img/campuspic.jpg" alt="In the shade outside the IIAS on the Givat Ram campus" />
+    &lt;img src="""/assets/img/campuspic.jpg" alt="In the shade outside the IIAS on the Givat Ram campus"&gt;
     <figcaption>In the shade outside the IIAS on the Givat Ram campus</figcaption>
   </figure>
 </div>
@@ -331,17 +331,17 @@
 
 <div class="top-heavy-triple-grid">
   <figure class="grid-card full-width-row">
-    <img src="/quadcryo/assets/img/solovaykitaev3.jpg" alt="Solovay-Kitaev theorem extension whiteboard session" />
+    <img src="/assets/img/solovaykitaev3.jpg" alt="Solovay-Kitaev theorem extension whiteboard session" />
     <figcaption>Pesudo-chalk (whiteboard) presentation about the SK theorem and other stuff</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/nationallibrary.jpg" alt="The National Library of Israel building exterior" />
+    <img src="/assets/img/nationallibrary.jpg" alt="The National Library of Israel building exterior" />
     <figcaption>The National Library of Israel</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/jewishduck.jpg" alt="Group theory proof notes featuring an Eastern Orthodox duck illustration" />
+    <img src="/assets/img/jewishduck.jpg" alt="Group theory proof notes featuring an Eastern Orthodox duck illustration" />
     <figcaption>Eastern Orthodox duck, courtesy of me</figcaption>
   </figure>
 </div>
@@ -352,7 +352,7 @@
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/reuroom3.jpg" alt="A whiteboard unfortunately" />
+    <img src="/assets/img/reuroom3.jpg" alt="A whiteboard unfortunately" />
     <figcaption>A whiteboard unfortunately; for some reason this room is simultaneously on the third and fourth floor</figcaption>
   </figure>
 </div>
@@ -363,17 +363,17 @@
 
 <div class="bottom-heavy-triple-grid">
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/computerpic1.jpg" alt="Typing up some stuff" />
+    <img src="/assets/img/computerpic1.jpg" alt="Typing up some stuff" />
     <figcaption>Typing up some stuff</figcaption>
   </figure>
 
   <figure class="grid-card portrait-img">
-    <img src="/quadcryo/assets/img/hillelst.jpg" alt="Hillel Street" />
+    <img src="/assets/img/hillelst.jpg" alt="Hillel Street" />
     <figcaption>Hillel Street</figcaption>
   </figure>
 
   <figure class="grid-card full-width-row">
-    <img src="/quadcryo/assets/img/wbpadics.jpg" alt="p-adics" />
+    <img src="/assets/img/wbpadics.jpg" alt="p-adics" />
     <figcaption>\(p\)-adics and \(\mathfrak{sl}_{d}(\mathbb{Z}_{p})\)</figcaption>
   </figure>
 </div>
@@ -388,7 +388,7 @@
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/aushosjlm.jpg" alt="Jerusalem Austrian Hospice view" />
+    <img src="/assets/img/aushosjlm.jpg" alt="Jerusalem Austrian Hospice view" />
     <figcaption>Sunset view of the Jerusalem Old City from the <a href="https://en.wikipedia.org/wiki/Austrian_Pilgrim_Hospice_to_the_Holy_Family">Austrian Hospice</a></figcaption>
   </figure>
 </div>
@@ -399,17 +399,17 @@
 
 <div class="dual-landscape-grid">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/reu.jpg" alt="Tel Aviv with REU" />
+    <img src="/assets/img/reu.jpg" alt="Tel Aviv with REU" />
     <figcaption>Really rEfined Undergraduates</figcaption>
   </figure>
 
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/solovaykitaev4.jpg" alt="Elementary progress on sl_d(z_p)" />
+    <img src="/assets/img/solovaykitaev4.jpg" alt="Elementary progress on sl_d(z_p)" />
     <figcaption>Elementary computations for \(\mathfrak{sl}_{d}(\mathbb{Z}_{p})\) involving the Cartan subalgebra of its root space decomposition</figcaption>
   </figure>
 </div>
 
-<p> Whilst on a train at the ungodly hour of 9:30am, a brief discussion arose concerning the usage of AI in research. I've written about this before <a href="https://quadcryo.github.io/quadcryo/2026/future-mathematics/">here</a>, but at that point I did not have a vantage from which to think about the impact of AI on research. A question that I genuinely do not know the answer to stems from here: to what degree should one be qualified to assess the novelty and quality of research produced by AI as legitimate contribution to the literature? I think an obvious answer to this question could be "a professional in a given field," though this misses the point. In some mathematics research, the correct line of questioning and tweaking in an LLM should lead to a legitimate mathematical result, seeing as how advanced models are now (though not discounting future potential). This "correct line of questioning" is a lot more vague than it seems though, since theoretically anyone can ask a good or bad question, either leading to novel or non-novel results. So was the "mathematics research conducted" the line of questioning or was it the contents of the responses and the hypothetically novel results? </p>
+<p> Whilst on a train at the ungodly hour of 9:30am, a brief discussion arose concerning the usage of AI in research. I've written about this before <a href="https://matiascyrelyea.github.io/2026/future-mathematics/">here</a>, but at that point I did not have a vantage from which to think about the impact of AI on research. A question that I genuinely do not know the answer to stems from here: to what degree should one be qualified to assess the novelty and quality of research produced by AI as legitimate contribution to the literature? I think an obvious answer to this question could be "a professional in a given field," though this misses the point. In some mathematics research, the correct line of questioning and tweaking in an LLM should lead to a legitimate mathematical result, seeing as how advanced models are now (though not discounting future potential). This "correct line of questioning" is a lot more vague than it seems though, since theoretically anyone can ask a good or bad question, either leading to novel or non-novel results. So was the "mathematics research conducted" the line of questioning or was it the contents of the responses and the hypothetically novel results? </p>
 
 <p> Parallel to this, since it is well-established that mathematics generated by an LLM is only significant if understandable, is it disingenuous to minimize our own thinking to reserve time for interpreting LLM outputs—and then claim novelty? I'm really not too sure. Is an overdependence on AI in mathematics research just the beginning? </p>
 
@@ -421,12 +421,12 @@
 
 <div class="asymmetric-clearance-grid">
 <figure class="grid-card left-diagram">
-    <img src="/quadcryo/assets/img/solovaykitaev5.jpg" alt="Presentation notes" />
+    <img src="/assets/img/solovaykitaev5.jpg" alt="Presentation notes" />
     <figcaption>Zigzag golf in \(\text{SU}(2)\)</figcaption>
   </figure>
 
   <figure class="grid-card right-cropped-board">
-    <img src="/quadcryo/assets/img/greedygolf.png" alt="greedy long distance golf" />
+    <img src="/assets/img/greedygolf.png" alt="greedy long distance golf" />
     <figcaption>Greedy long distance golf</figcaption>
   </figure>
 </div>
@@ -441,7 +441,7 @@
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/reusunset.jpg" alt="haifa sunset" />
+    <img src="/assets/img/reusunset.jpg" alt="haifa sunset" />
     <figcaption><a href="https://en.wikipedia.org/wiki/Haifa">Haifa</a> sunset and a 20km "hike" (we will ignore the fact that 28.57% of the people in the image are theoretically theoretical physicists, empirically)</figcaption>
   </figure>
 </div>
@@ -450,15 +450,15 @@
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
-    <img src="/quadcryo/assets/img/solovaykitaev6.jpg" alt="kuperberg lie theory" />
+    <img src="/assets/img/solovaykitaev6.jpg" alt="kuperberg lie theory" />
     <figcaption>Presentation on Lie theory and Kuperberg and Elkasapy's contributions</figcaption>
   </figure>
 </div>
-</p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[happenings for summer 2026]]></summary></entry><entry><title type="html">Some People</title><link href="https://quadcryo.github.io/quadcryo/2026/somepeople/" rel="alternate" type="text/html" title="Some People" /><published>2026-07-15T00:00:00+00:00</published><updated>2026-07-15T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/somepeople</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/somepeople/"><![CDATA[<p> People inspire, teach, help, think about, take inspiration, collaborate, invest, believe, etc. in other people every day. After all, we're a collaborative species. </p>
+</p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[happenings for summer 2026]]></summary></entry><entry><title type="html">Some People</title><link href="https://matiascyrelyea.github.io/2026/somepeople/" rel="alternate" type="text/html" title="Some People" /><published>2026-07-15T00:00:00+00:00</published><updated>2026-07-15T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2026/somepeople</id><content type="html" xml:base="https://matiascyrelyea.github.io/2026/somepeople/"><![CDATA[<p> People inspire, teach, help, think about, take inspiration, collaborate, invest, believe, etc. in other people every day. After all, we're a collaborative species. </p>
 
 <p> <i>Here are some people:</i> <a href="https://terrytao.wordpress.com/">Terence Tao</a>, <a href="https://sites.google.com/view/orelig/">Orestis Lignos</a>, <a href="https://agniv.me/">Agniv Sarkar</a>, <a href="https://eulercircle.com/people/">Simon Rubinstein-Salzedo</a>, <a href="https://alexpasch.al/">Alex Paschal</a>, <a href="https://12buntu.github.io/Book-N/">Kyle Hollars</a>, <a href="https://web.evanchen.cc/">Evan Chen</a>, <a href="https://www.gmlavigne.com/">Michael Lavigne</a></p>
 
-<p> I will update this page. </p>]]></content><author><name></name></author><summary type="html"><![CDATA[literally just people]]></summary></entry><entry><title type="html">The Future of Mathematics</title><link href="https://quadcryo.github.io/quadcryo/2026/future-mathematics/" rel="alternate" type="text/html" title="The Future of Mathematics" /><published>2026-04-24T00:00:00+00:00</published><updated>2026-04-24T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/future-mathematics</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/future-mathematics/"><![CDATA[<p> A friend of mine recently shared <a href="https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy">an article</a> about AI and mathematics that led me to think a little bit about the future of mathematics, particularly in regard to<i> my own </i>pursuits and interests in the field. The article itself is long, but incredibly interesting and shares many sentiments about the concerns of AI in a rapidly changing "mathematics economy." </p>
+<p> I will update this page. </p>]]></content><author><name></name></author><summary type="html"><![CDATA[literally just people]]></summary></entry><entry><title type="html">The Future of Mathematics</title><link href="https://matiascyrelyea.github.io/2026/future-mathematics/" rel="alternate" type="text/html" title="The Future of Mathematics" /><published>2026-04-24T00:00:00+00:00</published><updated>2026-04-24T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2026/future-mathematics</id><content type="html" xml:base="https://matiascyrelyea.github.io/2026/future-mathematics/"><![CDATA[<p> A friend of mine recently shared <a href="https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy">an article</a> about AI and mathematics that led me to think a little bit about the future of mathematics, particularly in regard to<i> my own </i>pursuits and interests in the field. The article itself is long, but incredibly interesting and shares many sentiments about the concerns of AI in a rapidly changing "mathematics economy." </p>
 
 <p> For centuries, even millenia, humanity has considered mathematics insurmountable: there was always more to discover, and there always is more to discover (there might be some exceptions with particularly egotistical eras where people believed themselves to be exceptional, but this should be generally true). Now, when I use the word "discover," there might be some debate about my underlying assumptions about the universe: whether mathematics is a formalisation of existing structure, or whether it was entirely created by humans to describe phenomenon. I'm not sure if I've talked about this before, but I am in the school that believes mathematical formalism is a tool created to understand existing structure, and the only thing limiting our conceptual understanding in any mathematical direction is, as Bessis also agrees with, <i>the human brain</i>. After all, AI can generate so much stuff, mathematical or not.</p>
 
@@ -502,7 +502,7 @@
   <p>They might be surprised—and thankful—to find out that mathematicians are actually on their side, fighting the good fight. As Carl Jacobi once put it, <i>“the object of mathematics is the honor of the human spirit.”</i> — David Bessis</p>
 </blockquote>
 
-<p> I think it is the responsibility of this generation of young mathematicians to make this reform.  </p>]]></content><author><name></name></author><category term="literature" /><summary type="html"><![CDATA[thoughts on an article by David Bessis]]></summary></entry><entry><title type="html">The Fundamental Group</title><link href="https://quadcryo.github.io/quadcryo/2026/topology/" rel="alternate" type="text/html" title="The Fundamental Group" /><published>2026-04-10T00:00:00+00:00</published><updated>2026-04-10T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/topology</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/topology/"><![CDATA[<p> Coming soon! I plan on writing a short piece about the fundamental group, possibly covering the van Kampen theorem and adjacent ideas, at the conclusion of my topology course. </p>]]></content><author><name></name></author><category term="mathematics" /><summary type="html"><![CDATA[algebraic topology and some words about point set topology]]></summary></entry><entry><title type="html">Mathematics REUs as a Freshman</title><link href="https://quadcryo.github.io/quadcryo/2026/mathreus/" rel="alternate" type="text/html" title="Mathematics REUs as a Freshman" /><published>2026-03-31T00:00:00+00:00</published><updated>2026-03-31T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/mathreus</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/mathreus/"><![CDATA[<nav>
+<p> I think it is the responsibility of this generation of young mathematicians to make this reform.  </p>]]></content><author><name></name></author><category term="literature" /><summary type="html"><![CDATA[thoughts on an article by David Bessis]]></summary></entry><entry><title type="html">The Fundamental Group</title><link href="https://matiascyrelyea.github.io/2026/topology/" rel="alternate" type="text/html" title="The Fundamental Group" /><published>2026-04-10T00:00:00+00:00</published><updated>2026-04-10T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2026/topology</id><content type="html" xml:base="https://matiascyrelyea.github.io/2026/topology/"><![CDATA[<p> Coming soon! I plan on writing a short piece about the fundamental group, possibly covering the van Kampen theorem and adjacent ideas, at the conclusion of my topology course. </p>]]></content><author><name></name></author><category term="mathematics" /><summary type="html"><![CDATA[algebraic topology and some words about point set topology]]></summary></entry><entry><title type="html">Mathematics REUs as a Freshman</title><link href="https://matiascyrelyea.github.io/2026/mathreus/" rel="alternate" type="text/html" title="Mathematics REUs as a Freshman" /><published>2026-03-31T00:00:00+00:00</published><updated>2026-03-31T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2026/mathreus</id><content type="html" xml:base="https://matiascyrelyea.github.io/2026/mathreus/"><![CDATA[<nav>
   <h2>Contents</h2>
   <ol>
     <li><a href="#0">My profile and what I believe worked well</a></li>
@@ -523,7 +523,7 @@
 
 <p> Below is a flowchart for my REU results in the 2026 cycle, made <a href="https://sankeymatic.com/">here</a>. </p>
 
-<p><img src="/quadcryo/assets/img/reuMay2026finalsankey.png" alt="Math REU Flowchart 2026" style="height:100%;width:100%" class="center" /></p>
+<p><img src="/assets/img/reuMay2026finalsankey.png" alt="Math REU Flowchart 2026" style="height:100%;width:100%" class="center" /></p>
 
 <p> This cycle, I applied to a total of 30 math REUs. The vast majority were pure math REUs, though I applied to a small number of "applied" math REUs as well. </p>
 
@@ -601,8 +601,8 @@
 <p> To be a useful resource for future applicants, below are some examples of successful REU writing pieces. These should hopefully serve as useful models for writing REU applications, but should not be taken as the standard. </p>
 
 <ul>
-  <li>Matias Relyea (UNC Chapel Hill): Einstein Institute of Mathematics REU 2026 (number theory) <a href="https://quadcryo.github.io/quadcryo/assets/pdf/Einstein SOI.pdf">[statement of interest]</a></li>
-  <li>Peyton Jackson (Columbia University): UNCG Computational Statistics REU 2026 (topological data analysis) <a href="https://quadcryo.github.io/quadcryo/assets/pdf/peyton-UNCG.pdf">[personal statement]</a></li>
+  <li>Matias Relyea (UNC Chapel Hill): Einstein Institute of Mathematics REU 2026 (number theory) <a href="https:///quadcryo/assets/pdf/Einstein SOI.pdf">[statement of interest]</a></li>
+  <li>Peyton Jackson (Columbia University): UNCG Computational Statistics REU 2026 (topological data analysis) <a href="https://quadcryo/assets/pdf/peyton-UNCG.pdf">[personal statement]</a></li>
 </ul>
 
 <p>(If you are just visiting, hi! If you were accepted to a math REU and would like to help future applicants, you could help build this list by emailing me with your successful REU writing materials. If you are interested (even anonymous additions are invaluable!), email hyanlong [at] unc [dot] edu) </p>
@@ -624,7 +624,7 @@
 <p> Not getting an REU isn't the end of the world as a freshman. Applying this early shows a lot of initiative, and if anything, it is an opportunity to gain graduate school application writing experience. Remaining productive over the summer is very important in math, so doing independent reading, attending summer courses, doing an independent research course, and directed reading are all very productive. In fact I plan on doing independent reading over the summer anyway to supplement my REU and prepare for my courses next semester. One program that is mentioned on the websites of a lot of math REUs is the <a href="https://geometrynyc.wixsite.com/polymathreu">Polymath Jr. REU</a>. Polymath Jr. is an online program that accepts most applicants with basic proof-writing and rigorous coursework (read more about it on the website), and it's sort of a "you get out of it what you put in" program. I'm not too familiar with details, but this is an excellent backup to remain productive over the summer, and it still looks great on a CV, especially as a freshman. The only difference is that it does not provide a stipend, but learning a ton of cool math is a great opportunity. Since Polymath Jr. is online, it does not care about citizenship—all non-US students should apply too as this is another great opportunity.</p>
 
 <p> Anyway, this is my experience as a freshman applicant, and some advice that I gathered from people and resources online. Hopefully it will be useful. I'm always open to any suggestions or feedback!</p>
-</p></p></p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[a guide to REUs from the freshman perspective (with my experiences)]]></summary></entry><entry><title type="html">The Quadratic and Cubic Characters of 2</title><link href="https://quadcryo.github.io/quadcryo/2026/quadcub2/" rel="alternate" type="text/html" title="The Quadratic and Cubic Characters of 2" /><published>2026-01-31T00:00:00+00:00</published><updated>2026-01-31T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2026/quadcub2</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2026/quadcub2/"><![CDATA[<nav>
+</p></p></p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[a guide to REUs from the freshman perspective (with my experiences)]]></summary></entry><entry><title type="html">The Quadratic and Cubic Characters of 2</title><link href="https://matiascyrelyea.github.io/2026/quadcub2/" rel="alternate" type="text/html" title="The Quadratic and Cubic Characters of 2" /><published>2026-01-31T00:00:00+00:00</published><updated>2026-01-31T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2026/quadcub2</id><content type="html" xml:base="https://matiascyrelyea.github.io/2026/quadcub2/"><![CDATA[<nav>
   <ul>
     <li><a href="#0">2 October, 2024</a></li>
     <li><a href="#1">11 October, 2024</a></li>
@@ -646,13 +646,13 @@
 
 <h5 id="1">(11 October, 2024)</h5>
 
-<p>The paper is now informally available on this website. I am still awaiting notice from MM. A pdf (v1) is available <a href="https://quadcryo.github.io/quadcryo/assets/pdf/matias-quadcub2.pdf">here</a>, and the arXiv preprint is <a href="https://arxiv.org/abs/2410.21646">here</a>.</p>
+<p>The paper is now informally available on this website. I am still awaiting notice from MM. A pdf (v1) is available <a href="https://matiascyrelyea.github.io/assets/pdf/matias-quadcub2.pdf">here</a>, and the arXiv preprint is <a href="https://arxiv.org/abs/2410.21646">here</a>.</p>
 
 <h5 id="2">(5 March, 2025)</h5>
 
 <p>This journey has reached an important milestone. It seems that my paper has been "reviewed favorably" by Mathematics Magazine, and after completing minor revisions, it will go on to publication. In this post, I'll cover a little bit of the timeline of the journey this paper has taken and some of my thoughts. </p>
 
-<p><img src="/quadcryo/assets/img/R_and_R.png" alt="Timeline picture" style="height:100%;width:100%" class="center" /></p>
+<p><img src="/assets/img/R_and_R.png" alt="Timeline picture" style="height:100%;width:100%" class="center" /></p>
 
 <p>The above shows a sort of timeline of events in the submission process (I'll update it later when more stuff happens, but for now, I have until 18 April, 2025 to revise and resubmit for eventual publication). </p>
 
@@ -662,19 +662,19 @@
 
 <p>Revisions only took about two weeks, and the paper will now be re-examined. Hopefully it takes just a couple weeks. I will post an updated version (v2) to the arXiv before publication, and will update that page accordingly. Thank you to everyone who has contributed to this and helped me throughout the process. As promised, here is an updated timeline.</p>
 
-<p><img src="/quadcryo/assets/img/revisions_submitted.png" alt="Timeline picture" style="height:100%;width:100%" class="center" /></p>
+<p><img src="/assets/img/revisions_submitted.png" alt="Timeline picture" style="height:100%;width:100%" class="center" /></p>
 
 <h5 id="4">(20 June, 2025)</h5>
 
 <p>The article was returned on 19 June, 2025, with a few brief revisions (typos and punctuation) and one minor remark about an assumption made, as well as a guarantee of acceptance and publication after resubmitted. I made these changes quickly and added a remark to address the assumption, and now I guess I wait until either the paper is sent back out to reviewers (which I would find to be unnecessary because so little has been changed, but it's not up to me) or accepted by the editor. I think that the two scenarios have a very different timeframe... Either way, here is the timeline updated again. Until later!</p>
 
-<p><img src="/quadcryo/assets/img/R&amp;R submitted again.png" alt="Timeline picture resubmit" style="height:100%;width:100%" class="center" /></p>
+<p><img src="/assets/img/R&amp;R submitted again.png" alt="Timeline picture resubmit" style="height:100%;width:100%" class="center" /></p>
 
 <h5 id="5">(26 June, 2025)</h5>
 
 <p>As of today, 26 June, 2025, this article has been accepted for publication. There was a minor round of revisions from the editor that mostly pointed to punctuation and rephrasing of some sentences which I managed quickly. Mathematics Magazine indicates an average of 45 days from acceptance to online publication, but I don't know what to expect—I guess it depends on how close 26 June is to any individual 5-times-a-year publication. Below is the final timeline.</p>
 
-<p><img src="/quadcryo/assets/img/article accepted.png" alt="Timeline picture accepted" style="height:100%;width:100%" class="center" /></p>
+<p><img src="/assets/img/article accepted.png" alt="Timeline picture accepted" style="height:100%;width:100%" class="center" /></p>
 
 <p>I suppose now that this project has come to its end, I should talk a bit about what this means to me for eventually pursuing research and doing more like this. At the end of the day, this result is a stepping stone. Yes, I am happy that I completed it, and I am happy that it has been accepted, but there's a bit of melancholic sadness—it's like when you've achieved something you wanted for a long time and initially feel content, but internally you know that to achieve what you really want, there will be many more seconds, minutes, and hours spent working, doubting, and revising. Those seconds, minutes, and hours seem far away, but they really aren't—years are now conscious fractions of our lives, and all that we do, whether to advance our career or personal interests, will eventually shape us.</p>
 
@@ -686,7 +686,7 @@
 
 <h5 id="6">(31 January, 2026)</h5>
 
-<p>Nearly 7 months later, this article has finally been published. This final update will conclude this post. Funnily enough, I can't access my own work through Taylor and Francis due to a paywall, but it exists (I'm pretty sure). This has been a great journey, and I'm hoping that it will happen many many more times. The article is likely more pleasantly read on this website or on the arXiv, but for those who either have institutional access or simply have money, the online version is linked <a href="https://www.tandfonline.com/doi/full/10.1080/0025570X.2025.2574223">here</a>. </p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[publishing, from beginning to end]]></summary></entry><entry><title type="html">Journeys VI</title><link href="https://quadcryo.github.io/quadcryo/2025/journeys6/" rel="alternate" type="text/html" title="Journeys VI" /><published>2025-11-20T00:00:00+00:00</published><updated>2025-11-20T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/journeys6</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/journeys6/"><![CDATA[<p>Why is analysis so hard? At most universities, I imagine Real Analysis is the one class that makes people quit. It makes them writhe in pain and hatred, cursing themselves for ever choosing to major in mathematics. All of the intuitions that come out of nowhere, the frighteningly low grades on practically every midterm, and the appearance of \( \epsilon \) in dreams that become nightmares. Real Analysis isn't kind, and I've certainly learned that early on (luckily I'm not interested in becoming an analyst). I'm taking comfort in the fact that even though Real Analysis is humbling my knowledge of proofs and gaining intuition from nothing, I'm better now. I'm better at writing proofs. I'm better at coming up with intuition that seems buried. In the long term, this is the one course that will define how I approach future courses in mathematics. After final exams this semester, I might look back fondly on the trivialities of Real Analysis and dream of the wonders it beheld. And perhaps I should in the future, but for posterity, I would like this post to remember the malevolent ghost of Real Analysis that wanders my mind at the most troubling times.</p>]]></content><author><name></name></author><category term="journeys" /><summary type="html"><![CDATA[why is real analysis so hard]]></summary></entry><entry><title type="html">A Word</title><link href="https://quadcryo.github.io/quadcryo/2025/somewords/" rel="alternate" type="text/html" title="A Word" /><published>2025-05-02T00:00:00+00:00</published><updated>2025-05-02T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/somewords</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/somewords/"><![CDATA[<p> Today I learned that my teacher, mentor, and friend, Dr. Tamar Avineri, passed away due to cancer. This came as a complete shock to me, and I wanted to dedicate this piece to her and say a few words. </p>
+<p>Nearly 7 months later, this article has finally been published. This final update will conclude this post. Funnily enough, I can't access my own work through Taylor and Francis due to a paywall, but it exists (I'm pretty sure). This has been a great journey, and I'm hoping that it will happen many many more times. The article is likely more pleasantly read on this website or on the arXiv, but for those who either have institutional access or simply have money, the online version is linked <a href="https://www.tandfonline.com/doi/full/10.1080/0025570X.2025.2574223">here</a>. </p>]]></content><author><name></name></author><category term="mathematics" /><category term="research" /><summary type="html"><![CDATA[publishing, from beginning to end]]></summary></entry><entry><title type="html">Journeys VI</title><link href="https://matiascyrelyea.github.io/2025/journeys6/" rel="alternate" type="text/html" title="Journeys VI" /><published>2025-11-20T00:00:00+00:00</published><updated>2025-11-20T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2025/journeys6</id><content type="html" xml:base="https://matiascyrelyea.github.io/2025/journeys6/"><![CDATA[<p>Why is analysis so hard? At most universities, I imagine Real Analysis is the one class that makes people quit. It makes them writhe in pain and hatred, cursing themselves for ever choosing to major in mathematics. All of the intuitions that come out of nowhere, the frighteningly low grades on practically every midterm, and the appearance of \( \epsilon \) in dreams that become nightmares. Real Analysis isn't kind, and I've certainly learned that early on (luckily I'm not interested in becoming an analyst). I'm taking comfort in the fact that even though Real Analysis is humbling my knowledge of proofs and gaining intuition from nothing, I'm better now. I'm better at writing proofs. I'm better at coming up with intuition that seems buried. In the long term, this is the one course that will define how I approach future courses in mathematics. After final exams this semester, I might look back fondly on the trivialities of Real Analysis and dream of the wonders it beheld. And perhaps I should in the future, but for posterity, I would like this post to remember the malevolent ghost of Real Analysis that wanders my mind at the most troubling times.</p>]]></content><author><name></name></author><category term="journeys" /><summary type="html"><![CDATA[why is real analysis so hard]]></summary></entry><entry><title type="html">A Word</title><link href="https://matiascyrelyea.github.io/2025/somewords/" rel="alternate" type="text/html" title="A Word" /><published>2025-05-02T00:00:00+00:00</published><updated>2025-05-02T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2025/somewords</id><content type="html" xml:base="https://matiascyrelyea.github.io/2025/somewords/"><![CDATA[<p> Today I learned that my teacher, mentor, and friend, Dr. Tamar Avineri, passed away due to cancer. This came as a complete shock to me, and I wanted to dedicate this piece to her and say a few words. </p>
 
 <p> The first class I took with Dr. Avineri was Graph Theory, and I learned a great deal from that experience. It wasn't until the second semester that I was truly able to work with her after explaining my interest in reciprocity laws - I wrote a paper, and she worked with me to revise it, critiquing my proof-writing and giving her own prose suggestions. During that time, we developed a wonderful relationship. I began to see her as a mentor, as someone who could advise me and someone I could trust. </p>
 
@@ -698,12 +698,12 @@
 
 <p>There is so much more good to say about Dr. Avineri that it is impossible to contain all of it within this short piece - I wish I would have been able to learn more about her and her past, as well as her future. Dr. Avineri will be missed by many, and I will never forget how she has impacted me. </p>
 
-<p>May she rest in peace.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Today I learned that my teacher, mentor, and friend, Dr. Tamar Avineri, passed away due to cancer. This came as a complete shock to me, and I wanted to dedicate this piece to her and say a few words.]]></summary></entry><entry><title type="html">Journeys V</title><link href="https://quadcryo.github.io/quadcryo/2025/journeys5/" rel="alternate" type="text/html" title="Journeys V" /><published>2025-03-23T00:00:00+00:00</published><updated>2025-03-23T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/journeys5</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/journeys5/"><![CDATA[<p>Soon I will become a university student, and this transition from school to university is something rather surreal. With universities accepting and rejecting me, it's a little discouraging; so often, many people attribute their individual capabilities to their college results, but so much more often that is just not the case. This isn't a topic that I think is of interest here, but it's really interesting to consider given the context of academia and government in America in today's landscape. </p>
+<p>May she rest in peace.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Today I learned that my teacher, mentor, and friend, Dr. Tamar Avineri, passed away due to cancer. This came as a complete shock to me, and I wanted to dedicate this piece to her and say a few words.]]></summary></entry><entry><title type="html">Journeys V</title><link href="https://matiascyrelyea.github.io/2025/journeys5/" rel="alternate" type="text/html" title="Journeys V" /><published>2025-03-23T00:00:00+00:00</published><updated>2025-03-23T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2025/journeys5</id><content type="html" xml:base="https://matiascyrelyea.github.io/2025/journeys5/"><![CDATA[<p>Soon I will become a university student, and this transition from school to university is something rather surreal. With universities accepting and rejecting me, it's a little discouraging; so often, many people attribute their individual capabilities to their college results, but so much more often that is just not the case. This isn't a topic that I think is of interest here, but it's really interesting to consider given the context of academia and government in America in today's landscape. </p>
 
 <p>It's rigid, fraudulent, misguided, unqualified, unprofessional, racist, sexist, and demeaning of anyone who doesn't follow some biased political demand. The state of American education seems to be fragile, with public institutions soon falling to the mercy of state education requirements (often led by vocal people), and private institutions attempting to save face by bowing before the federal government on issues surrounding DEI, affirmative action, etc.. Where do I go? In a country that prides itself on freedom of speech and scientific prowess, practically every new story each day is about how "some person" was taken from their home after exhibiting free speech, or how "this many" scientists lost their jobs because their work mentioned newly "forbidden terms," a list that includes words such as "gender," "woman," or even "Gulf of Mexico," which is honestly kinda funny. </p>
 
 <p>How do I fit into this new world? Many say that this will all disappear after 4 years, but they're wrong. This country has already regressed by 20 years, and each day pushes that number higher. I'll go to a university, but what then? I have no idea what will happen, and seeing as how fragile academia is in this country, it seems that the best thing to do is to leave America as soon as I graduate and pursue post-graduate studies abroad. I can see myself looking back on this website and thinking about how naïve I was to even think about things so far in the future, but maybe I'm right! I'll never know until it happens. </p>
 
-<p>It's just a waiting game. It saddens me to think that the world I've known might be something entirely different within a decade.</p>]]></content><author><name></name></author><category term="journeys" /><summary type="html"><![CDATA[the world, its constituents, and me in today's landscape]]></summary></entry><entry><title type="html">Elementary Algebra of Hyperreals</title><link href="https://quadcryo.github.io/quadcryo/2025/hyperrealnumbers/" rel="alternate" type="text/html" title="Elementary Algebra of Hyperreals" /><published>2025-01-30T00:00:00+00:00</published><updated>2025-01-30T00:00:00+00:00</updated><id>https://quadcryo.github.io/quadcryo/2025/hyperrealnumbers</id><content type="html" xml:base="https://quadcryo.github.io/quadcryo/2025/hyperrealnumbers/"><![CDATA[<p>A new year has begun, and I still have yet to hear from the Mathematics Magazine. This isn't the subject of this post though. Over this J-Term, I had the privilege of learning about hyperreal numbers, which extends \(\mathbb{R}\) to the hyperreal numbers by including infinitesimal and infinite numbers. I gave a presentation on this topic that follows the first couple sections of Keisler's very rigorous (maybe unnecessarily so) treatment of something that seems no more than a recreational creation of Conway, despite its vast history in the development of nonstandard analysis. I didn't have the opportunity to learn much more, but from what I can see, Keisler's treatment focuses a lot on words, sentences, and other "grammatical" concepts from model theory that I have yet to learn about. Maybe I'll take a look at some point in the future. </p>
+<p>It's just a waiting game. It saddens me to think that the world I've known might be something entirely different within a decade.</p>]]></content><author><name></name></author><category term="journeys" /><summary type="html"><![CDATA[the world, its constituents, and me in today's landscape]]></summary></entry><entry><title type="html">Elementary Algebra of Hyperreals</title><link href="https://matiascyrelyea.github.io/2025/hyperrealnumbers/" rel="alternate" type="text/html" title="Elementary Algebra of Hyperreals" /><published>2025-01-30T00:00:00+00:00</published><updated>2025-01-30T00:00:00+00:00</updated><id>https://matiascyrelyea.github.io/2025/hyperrealnumbers</id><content type="html" xml:base="https://matiascyrelyea.github.io/2025/hyperrealnumbers/"><![CDATA[<p>A new year has begun, and I still have yet to hear from the Mathematics Magazine. This isn't the subject of this post though. Over this J-Term, I had the privilege of learning about hyperreal numbers, which extends \(\mathbb{R}\) to the hyperreal numbers by including infinitesimal and infinite numbers. I gave a presentation on this topic that follows the first couple sections of Keisler's very rigorous (maybe unnecessarily so) treatment of something that seems no more than a recreational creation of Conway, despite its vast history in the development of nonstandard analysis. I didn't have the opportunity to learn much more, but from what I can see, Keisler's treatment focuses a lot on words, sentences, and other "grammatical" concepts from model theory that I have yet to learn about. Maybe I'll take a look at some point in the future. </p>
 
-<p>The presentation in all of its pause-heavy glory is linked <a href="https://quadcryo.github.io/quadcryo/projectpdf/hyperreals-algebra-slides.pdf">here</a>.</p>]]></content><author><name></name></author><category term="mathematics" /><summary type="html"><![CDATA[a presentation I gave on the algebra of hyperreal numbers systems, monads, galaxies]]></summary></entry></feed>
+<p>The presentation in all of its pause-heavy glory is linked <a href="https://matiascyrelyea.github.io/projectpdf/hyperreals-algebra-slides.pdf">here</a>.</p>]]></content><author><name></name></author><category term="mathematics" /><summary type="html"><![CDATA[a presentation I gave on the algebra of hyperreal numbers systems, monads, galaxies]]></summary></entry></feed>
