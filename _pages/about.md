@@ -10,7 +10,7 @@ profile:
   address: <a href="https://matiascyrelyea.github.io/assets/pdf/cv.pdf">Curriculum Vitae (CV)</a> (last updated 1 July, 2026)
 ---
 
-<p> My name is Matias, and I am a first-year student in the <a href="https://math.unc.edu/">Department of Mathematics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>.</p>
+<p> My name is Matias, and I am a second-year student in the <a href="https://math.unc.edu/">Department of Mathematics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>.</p>
 
 <p> I am a Visiting Research Fellow at the <a href = "https://mathematics.huji.ac.il/">Einstein Institute of Mathematics</a> REU for Summer 2026, advised by Professor <a href = "https://mathematics.huji.ac.il/people/shai-evra">Shai Evra</a> (read about it <a href = "https://matiascyrelyea.github.io/2026/einsteinreu/">here</a>). </p>
 
