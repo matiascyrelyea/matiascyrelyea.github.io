@@ -611,10 +611,11 @@
   </figure>
 </div>
 
+This is the statement of the theorem we will try to prove.
 
 <p> <i><b>Theorem.</b></i> Let \(G = SL_{d}(\mathbb{Z}_{p})\) be a compact matrix Lie group. Let \(A\subset G\) be a finite, topologically generating set, such that \(A = A^{-1}\). Furthermore, define the surjective map \(G\twoheadrightarrow SL_{d}(\mathbb{Z}/p^{n}\mathbb{Z})\) to have kernel \(\Gamma_{n} = \text{Ker}(G\twoheadrightarrow SL_{d}(\mathbb{Z}/p^{n}\mathbb{Z})) = \{g\in G \mid g\equiv I\pmod{p^{n}}\}\). Let there be a metric (possibly a left-invariant <a href="https://en.wikipedia.org/wiki/Finsler_manifold" rel="external nofollow noopener" target="_blank">Finsler metric</a>) \(d: G\times G \rightarrow \mathbb{R}_{\geq 0}\) defined such that \(d(g,h)&lt;2^{-n}\) if and only if \(g^{-1}h \in \Gamma_{n}\), where \((g,h\in G)\). Furthermore, denote each quotient \(G_{n}\cong G/\Gamma_{n}\). Lastly, for \(\omega\in \langle A\rangle\), define the <i>length function</i> of a word to be \(l(\omega) = \text{min}\{n \mid \omega = s_{1}\cdots s_{n}, s_{i}\in A\}\). Then, for all \(p\) and \(d\) there exists a constant \(c_{p,d}&gt;0\) such that for all \(\alpha &gt; \log_{\phi}(2)\), where \(\phi\) denotes the golden ratio, there exists an algorithm such that for an arbitrary target element \(g\in G_{n}\), there exists a sequence \(s_{1},\ldots,s_{l}\in A\) such that the word \(s_{1}\cdots s_{l} = g\), and \(l\leq \mathcal{O}(n^{\alpha})\). </p>
 
-<p> I'll try to describe this result more simply, largely for my own sanity. There are some important differences between the \(p\)-SK theorem and the classical SK theorem. The first is the introduction of Elkasapy words. Defined explicitly in Kuperberg, Elkasapy words are a generalization of single commutators that reduce error in each "iteration" of the algorithm more effectively. The second difference is a new algorithm that uses so-called "zigzag golf," which I mentioned before. However, on a fundmanetal level, the two results are ultimately the same. </p>
+<!-- <p> I'll try to describe this result more simply, largely for my own sanity. There are some important differences between the \(p\)-SK theorem and the classical SK theorem. The first is the introduction of Elkasapy words. Defined explicitly in Kuperberg, Elkasapy words are a generalization of single commutators that reduce error in each "iteration" of the algorithm more effectively. The second difference is a new algorithm that uses so-called "zigzag golf," which I mentioned before. However, on a fundmanetal level, the two results are ultimately the same. </p>
 
 <p> Kuperberg's paper is a bit more general than we need, proving that a target \(g\) in a not-necessarily-compact semisimple Lie group can be approximated to a good precision. In our case, we really only care about compact Lie groups that are not semisimple.  </p>
 
@@ -624,7 +625,7 @@
 
 <p> Now we can talk about the \(p\)-adic analogue. Unlike the classical SK theorem, we now have very precise principal congruence subgroups, described in the statement of the theorem as the kernel of the surjective map between \(G\) and the quotients modulo \(p^{n}\). These maps are surjective.  </p>
 
-<p> (unfinished) </p>
+<p> (unfinished) </p> -->
 
 
     </div>
