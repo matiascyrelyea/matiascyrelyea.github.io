@@ -468,17 +468,19 @@ tags: mathematics research
 
 <h5 id = "9">(20 July, 2026)</h5>
 
-<p> As the program nears its end, we have a concrete result to work toward. After listening to hours of presentations about Kuperberg's 2025 paper about using "higher commutators," which are described using Elkasapy words (special words that have a very large conjugate cancellation degree /(\text{ccan}_{SL_{d}(\mathbb{Z}_{p})}(\omega)/), where /(\omega/) denotes the Elkasapy word) we are now at last working toward a /(p/)-adic analogue to the Solovay-Kitaev theorem, which, while receiving treatment from <a href = "https://arxiv.org/pdf/math/0608483">Dinai</a> (2006 paper, Theorem 3.5) when /(\alpha/) is arbitrarily close to 4, has not yet been improved in the literature to consider higher commutators such as Elkasapy words. </p>
+<p> As the program nears its end, we have a concrete result to work toward. After listening to hours of presentations about Kuperberg's 2025 paper about using "higher commutators," which are described using Elkasapy words (special words that have a very large conjugate cancellation degree \(\text{ccan}_{SL_{d}(\mathbb{Z}_{p})}(\omega)\), where \(\omega\) denotes the Elkasapy word) we are now at last working toward a \(p\)-adic analogue to the Solovay-Kitaev theorem, which, while receiving treatment from <a href = "https://arxiv.org/pdf/math/0608483">Dinai</a> (2006 paper, Theorem 3.5) when \(\alpha\) is arbitrarily close to 4, has not yet been improved in the literature to consider higher commutators such as Elkasapy words. </p>
 
 <div class="standalone-image-container">
   <figure class="grid-card landscape-img">
     <img src="/assets/img/solovaykitaev7.jpg" alt="the big final result">
-    <figcaption>The /(p/)-SK Theorem</figcaption>
+    <figcaption>The \(p\)-SK Theorem</figcaption>
   </figure>
 </div>
 
 <p> In the folowing, I will state the main result, and for both my sake and clarity's sake, explain some of the components and fundamental concepts. My hope is that this will give a sufficient amount of intuition for how to think about the problem. </p>
 
 > Let \(G = SL_{d}(\mathbb{Z}_{p})\) be a compact matrix Lie group. Let \(A\subset G\) be a finite, topologically generating set, such that \(A = A^{-1}\). Furthermore, define the surjective map \(G\twoheadrightarrow SL_{d}(\mathbb{Z}_{p})\) to have kernel \(\Gamma_{n} = \text{Ker}(G\twoheadrightarrow SL_{d}(\mathbb{Z}_{p})) = \{g\in G \mid g\equiv I\pmod{p^{n}}\}\). Let there be a metric (possibly a left-invariant <a href="https://en.wikipedia.org/wiki/Finsler_manifold">Finsler metric</a>) \(d: G\times G \rightarrow \mathbb{R}_{\geq 0}\) defined such that \(d(g,h)<2^{-n}\) if and only if \(g^{-1}h \in \Gamma_{n}\), where \(g,h\in G\). Furthermore, denote each quotient \(G_{n}\cong G/\Gamma_{n}\). Lastly, for \(\omega\in \langle A\rangle\), define the *length function* of a word to be \(l(\omega) = \text{min}\{n \mid \omega = s_{1}\cdots s_{n}, s_{i}\in A\}\).
+>
+> <br>
 >
 > Then, for all \(p\) and \(d\) there exists a constant \(c_{p,d}>0\) such that for all \(\alpha > \log_{\phi}(2)\), where \(\phi\) denotes the golden ratio, there exists an algorithm such that for an arbitrary target element \(g\in G_{n}\), there exists a sequence \(s_{1},\ldots,s_{l}\in A\) such that the word \(s_{1}\cdots s_{l} = g\), and \(l\leq \mathcal{O}(n^{\alpha})\).
