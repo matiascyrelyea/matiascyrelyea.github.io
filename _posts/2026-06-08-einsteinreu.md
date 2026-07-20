@@ -477,8 +477,10 @@ tags: mathematics research
   </figure>
 </div>
 
-> <div>Let \(G = SL_{d}(\mathbb{Z}_{p})\) be a compact matrix Lie group. Let \(A\subset G\) be a finite, topologically generating set, such that \(A = A^{-1}\). Furthermore, define the surjective map \(G\twoheadrightarrow SL_{d}(\mathbb{Z}_{p})\) to have kernel \(\Gamma_{n} = \text{Ker}(G\twoheadrightarrow SL_{d}(\mathbb{Z}_{p})) = \{g\in G \mid g\equiv I\pmod{p^{n}}\}\). Let there be a metric (possibly a left-invariant <a href="https://en.wikipedia.org/wiki/Finsler_manifold">Finsler metric</a>) \(d: G\times G \rightarrow \mathbb{R}_{\geq 0}\) defined such that \(d(g,h)<2^{-n}\) if and only if \(g^{-1}h \in \Gamma_{n}\), where \((g,h\in G)\). Furthermore, denote each quotient \(G_{n}\cong G/\Gamma_{n}\). Lastly, for \(\omega\in \langle A\rangle\), define the <i>length function</i> of a word to be \(l(\omega) = \text{min}\{n \mid \omega = s_{1}\cdots s_{n}, s_{i}\in A\}\).</div>
-> 
-> <br>
-> 
-> <div>Then, for all \(p\) and \(d\) there exists a constant \(c_{p,d}>0\) such that for all \(\alpha > \log_{\phi}(2)\), where \(\phi\) denotes the golden ratio, there exists an algorithm such that for an arbitrary target element \(g\in G_{n}\), there exists a sequence \(s_{1},\ldots,s_{l}\in A\) such that the word \(s_{1}\cdots s_{l} = g\), and \(l\leq \mathcal{O}(n^{\alpha})\).</div>
+<blockquote class="block-tip">
+  Let \(G = SL_{d}(\mathbb{Z}_{p})\) be a compact matrix Lie group. Let \(A\subset G\) be a finite, topologically generating set, such that \(A = A^{-1}\). Furthermore, define the surjective map \(G\twoheadrightarrow SL_{d}(\mathbb{Z}_{p})\) to have kernel \(\Gamma_{n} = \text{Ker}(G\twoheadrightarrow SL_{d}(\mathbb{Z}_{p})) = \{g\in G \mid g\equiv I\pmod{p^{n}}\}\). Let there be a metric (possibly a left-invariant <a href="https://en.wikipedia.org/wiki/Finsler_manifold">Finsler metric</a>) \(d: G\times G \rightarrow \mathbb{R}_{\geq 0}\) defined such that \(d(g,h)<2^{-n}\) if and only if \(g^{-1}h \in \Gamma_{n}\), where \((g,h\in G)\). Furthermore, denote each quotient \(G_{n}\cong G/\Gamma_{n}\). Lastly, for \(\omega\in \langle A\rangle\), define the <i>length function</i> of a word to be \(l(\omega) = \text{min}\{n \mid \omega = s_{1}\cdots s_{n}, s_{i}\in A\}\).
+  
+  <br><br>
+  
+  Then, for all \(p\) and \(d\) there exists a constant \(c_{p,d}>0\) such that for all \(\alpha > \log_{\phi}(2)\), where \(\phi\) denotes the golden ratio, there exists an algorithm such that for an arbitrary target element \(g\in G_{n}\), there exists a sequence \(s_{1},\ldots,s_{l}\in A\) such that the word \(s_{1}\cdots s_{l} = g\), and \(l\leq \mathcal{O}(n^{\alpha})\).
+</blockquote>
