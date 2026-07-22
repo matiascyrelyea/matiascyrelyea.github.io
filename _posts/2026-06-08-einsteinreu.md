@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Einstein Institute of Mathematics REU
-date:   2026-07-20 00:00-00
+date:   2026-07-23 00:00-00
 description: happenings for summer 2026
 tags: mathematics research
 ---
@@ -251,6 +251,7 @@ tags: mathematics research
     <li><a href="#7">12 July, 2026</a></li>
     <li><a href="#8">15 July, 2026</a></li>
     <li><a href="#9">20 July, 2026</a></li>
+    <li><a href="#10">23 July, 2026</a></li>
   </ul>
 </nav>
 
@@ -481,14 +482,25 @@ tags: mathematics research
 
 <p> <i><b>Theorem.</b></i> Let \(G = SL_{d}(\mathbb{Z}_{p})\) be a compact matrix Lie group. Let \(A\subset G\) be a finite, topologically generating set, such that \(A = A^{-1}\). Furthermore, define the surjective map \(G\twoheadrightarrow SL_{d}(\mathbb{Z}/p^{n}\mathbb{Z})\) to have kernel \(\Gamma_{n} = \text{Ker}(G\twoheadrightarrow SL_{d}(\mathbb{Z}/p^{n}\mathbb{Z})) = \{g\in G \mid g\equiv I\pmod{p^{n}}\}\). Let there be a metric (possibly a left-invariant <a href="https://en.wikipedia.org/wiki/Finsler_manifold">Finsler metric</a>) \(d: G\times G \rightarrow \mathbb{R}_{\geq 0}\) defined such that \(d(g,h)<2^{-n}\) if and only if \(g^{-1}h \in \Gamma_{n}\), where \((g,h\in G)\). Furthermore, denote each quotient \(G_{n}\cong G/\Gamma_{n}\). Lastly, for \(\omega\in \langle A\rangle\), define the <i>length function</i> of a word to be \(l(\omega) = \text{min}\{n \mid \omega = s_{1}\cdots s_{n}, s_{i}\in A\}\). Then, for all \(p\) and \(d\) there exists a constant \(c_{p,d}>0\) such that for all \(\alpha > \log_{\phi}(2)\), where \(\phi\) denotes the golden ratio, there exists an algorithm such that for an arbitrary target element \(g\in G_{n}\), there exists a sequence \(s_{1},\ldots,s_{l}\in A\) such that the word \(s_{1}\cdots s_{l} = g\), and \(l\leq \mathcal{O}(n^{\alpha})\). </p>
 
-<!-- <p> I'll try to describe this result more simply, largely for my own sanity. There are some important differences between the \(p\)-SK theorem and the classical SK theorem. The first is the introduction of Elkasapy words. Defined explicitly in Kuperberg, Elkasapy words are a generalization of single commutators that reduce error in each "iteration" of the algorithm more effectively. The second difference is a new algorithm that uses so-called "zigzag golf," which I mentioned before. However, on a fundmanetal level, the two results are ultimately the same. </p>
+<h5 id = "10">(23 July, 2026)</h5>
 
-<p> Kuperberg's paper is a bit more general than we need, proving that a target \(g\) in a not-necessarily-compact semisimple Lie group can be approximated to a good precision. In our case, we really only care about compact Lie groups that are not semisimple.  </p>
+<p> It would seem apparently difficult to justify a discussion about foreign policy when my aim on this site is to remain largely apolitical and to be a proponent of strictly mathematical interests. As a result, I aim not to specific conflicts, but rather to abstract the state of the world and its urgencies. </p>
 
-<p> So how does the theorem work? The SK theorem doesn't explain some more complicated mechanics, but if we abstract what's going on there, we can get a better understanding of this new analogue. Each Lie group \(G\) has a corresponding Lie algebra \(\mathfrak{g}\), and there exist canonical bijections, which we refer to as the exponential and logarithmic maps (or \(\text{exp}\) and \(\text{log}\)), between them, where \(\text{exp}: \mathfrak{g} \rightarrow G\) and \(\text{log}: G\rightarrow \mathfrak{g}\). The Baker-Campbell-Hausdorff formula (BCH), which was mentioned at some point earlier, formalizes this relationship as a series. In essence, the BCH formula allows us to take commutators in the Lie algebra, map back to the group, map back down to the Lie algebra, and then iterate until we reach our desired precision. </p>
+<p> I have discussed <i>ad nauseam</i> the implications of AI in mathematics. That is not the point here, but it does play a role in some possibly unrelated meanderings. As I continue to participate in my REU in Jerusalem, Israel, I repeatedly encounter interesting qualms regarding not just complex mathematical ideas, but abstract notions of security, nationhood, neo-colonialism, and existential questions about ethnic and regional identity.  </p>
 
-<p> This mapping back and forth does more than just create a higher precision. A fundamental property of the Lie algebra is that as we take the commutator of two Lie algebras, we end up in a deeper "level," in other words a higher precision in the BCH formula. This is exactly what we want, and exactly what brings the error down and makes the word length relatively short. </p>
+<div class="standalone-image-container">
+  <figure class="grid-card landscape-img">
+    <img src="/assets/img/sacherpark.jpg" alt="sacher park">
+    <figcaption>Evening walk through <a href = "https://en.wikipedia.org/wiki/Sacher_Park">Sacher Park</a> to watch Christopher Nolan's <a href = "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)"><i>The Odyssey</i></a></figcaption>
+  </figure>
+</div>
 
-<p> Now we can talk about the \(p\)-adic analogue. Unlike the classical SK theorem, we now have very precise principal congruence subgroups, described in the statement of the theorem as the kernel of the surjective map between \(G\) and the quotients modulo \(p^{n}\). These maps are surjective.  </p>
+<p> I think it's easy to look at a person as a monolith of what they do. If I were to look at myself, either from the past or the future, it would look as though I am just a collection of the things I've done and claim to do. As such, it would be easy to describe myself as a strictly mathematics-pursuing character, but this, I think, is a misinterpretation of myself. The point I'm getting at is that, almost counterintuitively, the location of this REU has led to a diversified outlook on not just mathematics, but my own interests concerning foreign policy and the pursuit of a just understanding of vital disussions that shape the modern world. </p>
 
-<p> (unfinished) </p> -->
+<p> So, great. Does that mean participating in this REU has counterproductive consequences? I would argue not. In any experience, no matter how far-fetched, I think it's important to view it multi-dimensionally, as not just something that furthers one's intended pursuits, but as something that builds multiple degrees of character and intention. As I mentioned in prior posts, I think the future of mathematics shouldn't be confined strictly to academia. The nobility of doing mathematics for the sake of mathematics that G.H. Hardy discussed in <a href="https://matiascyrelyea.github.io/assets/pdf/A Mathematician's Apology - G.H. Hardy.pdf">A Mathematician's Apology</a> seems out-dated and crude.  </p>
+
+<p> Seeing many people acquire PhDs in mathematics, it seems that doing so has become less of a guarantor of acceptance and dedication to academia, and more a qualification. I think when I shift the lens to think about the difference between an achievement and a qualification, it becomes easy to see that a PhD symbolizes objective competence rather than the contribution of something novel, i.e. a qualification. Contemporary mathematics research is so dense and vast that novel contributions are rare, so most PhD projects chip away at a small chunk of a subfield. What use is that? </p>
+
+<p> This is not to diminish obtaining a PhD, simplify to consider the diversification of interests. This brings me back to foreign policy. Perhaps a global mathematics education initiative to prepare new generations going into daring times would be helpful—advocating for such things at international organizations like <a href = "https://www.unesco.org/en">UNESCO</a> would be an arguably more G.H. Hardy-esque "mathematics for the sake of mathematics" pursuit. </p>
+
+<p> So, counterintuitively, this REU has widened my view of mathematics-adjacent fields that aren't necessarily pure theory. </p>
