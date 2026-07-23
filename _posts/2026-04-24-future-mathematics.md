@@ -24,7 +24,11 @@ tags: literature
 
 <p> In its current state, the humanity of mathematics is already frugal: society doesn't view mathematics as crucial, nor does it view mathematics as social. We've already failed to make mathematics human. It's just lines of code, some tool for a physics or engineering problem. This view is harmful. I believe that if we completely lose the humanity of mathematics, the culture of human progression will become very, very linear. </p>
 
-> But if AI ever “wins” at mathematics, then someone else will have to be the “loser,” and the only other player in the room is human thought. — David Bessis
+> But if AI ever “wins” at mathematics, then someone else will have to be the “loser,” and the only other player in the room is human thought. 
+>
+> <br>
+>
+> — David Bessis
 
 <p> Bessis questions whether perspectives like this are those of <a href="https://en.wikipedia.org/wiki/Luddite">Luddites</a>. I agree that it is not, and in fact there is something much more complex going on. </p>
 
@@ -42,6 +46,10 @@ tags: literature
 >
 > <br>
 >
->They might be surprised—and thankful—to find out that mathematicians are actually on their side, fighting the good fight. As Carl Jacobi once put it, <i>“the object of mathematics is the honor of the human spirit.”</i> — David Bessis
+>They might be surprised—and thankful—to find out that mathematicians are actually on their side, fighting the good fight. As Carl Jacobi once put it, <i>“the object of mathematics is the honor of the human spirit.”</i> 
+>
+> <br>
+>
+> — David Bessis
 
 <p> I think it is the responsibility of this generation of young mathematicians to make this reform.  </p>
