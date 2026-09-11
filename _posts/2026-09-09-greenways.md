@@ -261,7 +261,7 @@ tags: literature
   </figure>
 </div>
 
-<p> </a href = "https://kirwinhampshire.substack.com/p/urgent-questions-for-mathematicians">Some people</a> are less than excited, and absolutely, I think such posts raise many valid concerns and questions that I have touched upon briefly before in passing. For instance, "Why do you <i>really</i> do mathematics?" has been asked before, and, really, it's a good question. I expect answers to vary widely, and it should be instinctive to ask one's advisor what they think.
+<p> <a href = "https://kirwinhampshire.substack.com/p/urgent-questions-for-mathematicians">Some people</a> are less than excited, and absolutely, I think such posts raise many valid concerns and questions that I have touched upon briefly before in passing. For instance, "Why do you <i>really</i> do mathematics?" has been asked before, and, really, it's a good question. I expect answers to vary widely, and it should be instinctive to ask one's advisor what they think. </p>
 
 <p> Amidst the memes and funny posts about the resolution of Navier-Stokes—which, somehow, seems to be many people's first introduction to LLM-conducted mathematics research—there lies a deeper issue that genuinely threatens the field forever and makes me lose hope at an exponential rate. Strangely enough, this issue is something that can be controlled, at least to some extent. A collection of mathematicians (humans) created the <a href = "https://www.ahmath.org/">Association for Human Mathematics</a>, declaring that they would not use artificial intelligence in any work they conducted. The premise of the project is excellent: preserve humans in mathematics research. </p>
 
