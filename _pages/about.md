@@ -7,7 +7,7 @@ profile:
   align: right
   image: pfp_medoingmath.jpg
   image_circular: false
-  address: <a href="https://matiascyrelyea.github.io/assets/pdf/cv.pdf">Curriculum Vitae (CV)</a> (last updated 6 September, 2026)
+  address: <a href="https://matiascyrelyea.github.io/assets/pdf/cv.pdf">Curriculum Vitae (CV)</a> (last updated 26 October, 2026)
 ---
 
 <p> My name is Matias, and I am a second-year student in the <a href="https://math.unc.edu/">Department of Mathematics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>.</p>
