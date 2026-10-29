@@ -10,7 +10,7 @@ profile:
   address: <a href="https://matiascyrelyea.github.io/assets/pdf/cv.pdf">Curriculum Vitae (CV)</a> (last updated 26 October, 2026)
 ---
 
-<p> My name is Matias, and I am a second-year student in the <a href="https://math.unc.edu/">Department of Mathematics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>.</p>
+<p> My name is Matias, and I am a second-year student in the <a href="https://math.unc.edu/">Department of Mathematics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. I am currently advised by Professor <a href = "https://sites.google.com/site/oliviamireladumitrescu/home?authuser=0">Olivia Dumitrescu</a>, working in birational geometry.</p>
 
 <p> I was a Visiting Research Fellow at the <a href = "https://mathematics.huji.ac.il/">Einstein Institute of Mathematics</a> REU at the Hebrew University of Jerusalem for Summer 2026, advised by Professor <a href = "https://mathematics.huji.ac.il/people/shai-evra">Shai Evra</a> (read about it <a href = "https://matiascyrelyea.github.io/2026/einsteinreu/">here</a>). </p>
 
